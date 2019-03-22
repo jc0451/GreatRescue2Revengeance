@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1666186674, guid: 68c7e4565cde54155bb78d8e935f1dd4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 2
+  lastUpdatedAtString: 2019-03-22T13:34:32.071+01:00
+  initializedAtString: 2019-03-22T13:26:10.817+01:00
+  localBranches:
+  - name: DONTfuckthisup2
+    tracking: origin/DONTfuckthisup2
+  - name: master
+    tracking: origin/master
+  - name: Newmasterdon'tfuckthisup
+    tracking: origin/Newmasterdon'tfuckthisup
+  remoteBranches:
+  - name: origin/Back-up
+    tracking: '[None]'
+  - name: origin/DONTfuckthisup2
+    tracking: '[None]'
+  - name: origin/HEAD
+    tracking: '[None]'
+  - name: origin/master
+    tracking: '[None]'
+  - name: origin/Newmasterdon'tfuckthisup
+    tracking: '[None]'
+  remotes:
+  - name: origin
+    url: https://github.com/HampusPaulsen/TheGreatRescue.git
+    login: 
+    user: 
+    host: 
+    function: 0
+    token: 
+  localConfigBranches:
+    keys:
+    - DONTfuckthisup2
+    - master
+    - Newmasterdon'tfuckthisup
+    values:
+    - name: DONTfuckthisup2
+      remote:
+        name: origin
+        url: https://github.com/HampusPaulsen/TheGreatRescue.git
+      trackingBranch: DONTfuckthisup2
+    - name: master
+      remote:
+        name: origin
+        url: https://github.com/HampusPaulsen/TheGreatRescue.git
+      trackingBranch: master
+    - name: Newmasterdon'tfuckthisup
+      remote:
+        name: origin
+        url: https://github.com/HampusPaulsen/TheGreatRescue.git
+      trackingBranch: Newmasterdon'tfuckthisup
+  remoteConfigBranches:
+    keys:
+    - origin
+    subKeys:
+    - Values:
+      - Back-up
+      - DONTfuckthisup2
+      - HEAD
+      - master
+      - Newmasterdon'tfuckthisup
+    subKeyValues:
+    - Values:
+      - name: Back-up
+        remote:
+          name: origin
+          url: https://github.com/HampusPaulsen/TheGreatRescue.git
+        trackingBranch: 
+      - name: DONTfuckthisup2
+        remote:
+          name: origin
+          url: https://github.com/HampusPaulsen/TheGreatRescue.git
+        trackingBranch: 
+      - name: HEAD
+        remote:
+          name: origin
+          url: https://github.com/HampusPaulsen/TheGreatRescue.git
+        trackingBranch: 
+      - name: master
+        remote:
+          name: origin
+          url: https://github.com/HampusPaulsen/TheGreatRescue.git
+        trackingBranch: 
+      - name: Newmasterdon'tfuckthisup
+        remote:
+          name: origin
+          url: https://github.com/HampusPaulsen/TheGreatRescue.git
+        trackingBranch: 
+  configRemotes:
+    keys:
+    - origin
+    values:
+    - name: origin
+      url: https://github.com/HampusPaulsen/TheGreatRescue.git

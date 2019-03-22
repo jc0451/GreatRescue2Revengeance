@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1dd4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 5
+  lastUpdatedAtString: 2019-03-22T13:48:48.544+01:00
+  initializedAtString: 2019-03-22T13:41:03.491+01:00
+  entries:
+  - path: The Great Rescue\Assets\Sprites\Animation\Main char Animation Doll.controller
+    fullPath: C:\Users\Alex Bugnar\Documents\New folder\TheGreatRescue\The Great Rescue\Assets\Sprites\Animation\Main
+      char Animation Doll.controller
+    projectPath: Assets\Sprites\Animation\Main char Animation Doll.controller
+    originalPath: 
+    status: 3
+    staged: 0
