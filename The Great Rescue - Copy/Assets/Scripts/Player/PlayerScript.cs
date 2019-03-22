@@ -72,7 +72,7 @@ public class PlayerScript : MonoBehaviour
                 PlayerBullet.pierce = false;
                 timeelapsed = 0;
             }
-            
+
         }
         if (health > 5)
         {
@@ -88,12 +88,12 @@ public class PlayerScript : MonoBehaviour
         }
         //if (BgScroll.MoveBg == false)
         //{
-      GetInput();
-     PlayerMovement();
+        GetInput();
+        PlayerMovement();
         //}
         //if (BgScroll.MoveBg == true)
-       // {
-     //gameObject.transform.position = Vector2.MoveTowards(gameObject.transform.position, orgpos, 70 * Time.deltaTime);
+        // {
+        //gameObject.transform.position = Vector2.MoveTowards(gameObject.transform.position, orgpos, 70 * Time.deltaTime);
         //}
     }
 
@@ -178,8 +178,8 @@ public class PlayerScript : MonoBehaviour
 
         }
 
-            //checks if colliding with Enemy Bullets
-            if (col.gameObject.name == "EnemyBulletGO(Clone)")
+        //checks if colliding with Enemy Bullets
+        if (col.gameObject.name == "EnemyBulletGO(Clone)")
         {
             HealthScore.HealthValue -= 1;
             m_MyAudioSource.Play();
@@ -191,9 +191,9 @@ public class PlayerScript : MonoBehaviour
             HealthScore.HealthValue -= 1;
             m_MyAudioSource.Play();
             health--;
-           
+
         }
-    
+
     }
     void OnTriggerEnter2D(Collider2D col)
     {
