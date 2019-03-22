@@ -43,6 +43,7 @@ public class PlayerScript : MonoBehaviour
     void Start()
     {
         m_Animator = gameObject.GetComponent<Animator>();
+        m_Animator.SetBool("IsWalking", false);
         topb = top.transform.position;
         bottomb = bottom.transform.position;
         rightb = right.transform.position;
@@ -109,6 +110,10 @@ public class PlayerScript : MonoBehaviour
             }
             m_Animator.SetBool("IsWalking", true);
         }
+        if (Input.GetKeyUp(KeyCode.W))
+        {
+            m_Animator.SetBool("IsWalking", false);
+        }
 
         if (Input.GetKey(KeyCode.A))
         {
@@ -119,6 +124,10 @@ public class PlayerScript : MonoBehaviour
             }
             m_Animator.SetBool("IsWalking", true);
         }
+        if (Input.GetKeyUp(KeyCode.A))
+        {
+            m_Animator.SetBool("IsWalking", false);
+        }
 
         if (Input.GetKey(KeyCode.S))
         {
@@ -128,6 +137,8 @@ public class PlayerScript : MonoBehaviour
             }
             m_Animator.SetBool("IsWalking", true);
         }
+        if (Input.GetKeyUp(KeyCode.S))
+            m_Animator.SetBool("IsWalking", false);
 
         if (Input.GetKey(KeyCode.D))
         {
@@ -137,6 +148,8 @@ public class PlayerScript : MonoBehaviour
             }
             m_Animator.SetBool("IsWalking", true);
         }
+        if (Input.GetKeyUp(KeyCode.D))
+            m_Animator.SetBool("IsWalking", false);
     }
 
     public void PlayerMovement()

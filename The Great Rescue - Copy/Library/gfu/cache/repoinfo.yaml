@@ -13,26 +13,26 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2019-03-22T13:41:03.341+01:00
-  initializedAtString: 2019-03-22T13:41:03.341+01:00
+  lastUpdatedAtString: 2019-03-22T14:13:55.257+01:00
+  initializedAtString: 2019-03-22T14:13:55.257+01:00
   currentGitRemote:
     name: origin
-    url: https://github.com/HampusPaulsen/TheGreatRescue.git
+    url: https://github.com/jc0451/GreatRescue2Revengeance.git
     login: 
     user: 
     host: 
     function: 0
     token: 
   currentGitBranch:
-    name: Newmasterdon'tfuckthisup
-    tracking: origin/Newmasterdon'tfuckthisup
+    name: master
+    tracking: origin/master
   currentConfigBranch:
-    name: Newmasterdon'tfuckthisup
+    name: master
     remote:
       name: origin
-      url: https://github.com/HampusPaulsen/TheGreatRescue.git
-    trackingBranch: Newmasterdon'tfuckthisup
+      url: https://github.com/jc0451/GreatRescue2Revengeance.git
+    trackingBranch: master
   currentConfigRemote:
     name: origin
-    url: https://github.com/HampusPaulsen/TheGreatRescue.git
+    url: https://github.com/jc0451/GreatRescue2Revengeance.git
   currentHead: 

@@ -25,10 +25,10 @@ public class PowerUpHealth : MonoBehaviour
 
             Destroy(gameObject);
         }
-        if (BgScroll.MoveBg == true)
-        {
+       // if (BgScroll.MoveBg == true)
+       // {
             transform.position = Vector2.MoveTowards(transform.position,target , speed * Time.deltaTime);
-        }
+       // }
     }
     void OnCollisionEnter2D(Collision2D col)
     {

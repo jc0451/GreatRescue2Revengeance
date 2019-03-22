@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{959EF6EA-B5CD-52EB-7ABD-2EF53C93ABB0}</ProjectGuid>
+    <ProjectGuid>{ECF6AA43-8CB6-6D6B-75BB-741539F60084}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor-firstpass</AssemblyName>
@@ -58,43 +58,43 @@
      <None Include="Assets\Plugins\GitHub\Editor\credits.txt" />
      <None Include="Assets\Plugins\GitHub\Editor\eula.txt" />
  <Reference Include="Unity.2D.Animation.Runtime">
- <HintPath>C:/Users/Alex Bugnar/Documents/New folder/TheGreatRescue/The Great Rescue/Library/ScriptAssemblies/Unity.2D.Animation.Runtime.dll</HintPath>
+ <HintPath>C:/Users/Alex Bugnar/Documents/New folder/GreatRescue2Revengeance/The Great Rescue - Copy/Library/ScriptAssemblies/Unity.2D.Animation.Runtime.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>C:/Users/Alex Bugnar/Documents/New folder/TheGreatRescue/The Great Rescue/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>C:/Users/Alex Bugnar/Documents/New folder/GreatRescue2Revengeance/The Great Rescue - Copy/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.IK.Editor">
- <HintPath>C:/Users/Alex Bugnar/Documents/New folder/TheGreatRescue/The Great Rescue/Library/ScriptAssemblies/Unity.2D.IK.Editor.dll</HintPath>
+ <HintPath>C:/Users/Alex Bugnar/Documents/New folder/GreatRescue2Revengeance/The Great Rescue - Copy/Library/ScriptAssemblies/Unity.2D.IK.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.IK.Runtime">
- <HintPath>C:/Users/Alex Bugnar/Documents/New folder/TheGreatRescue/The Great Rescue/Library/ScriptAssemblies/Unity.2D.IK.Runtime.dll</HintPath>
+ <HintPath>C:/Users/Alex Bugnar/Documents/New folder/GreatRescue2Revengeance/The Great Rescue - Copy/Library/ScriptAssemblies/Unity.2D.IK.Runtime.dll</HintPath>
  </Reference>
  <Reference Include="Unity.PackageManagerUI.Editor">
- <HintPath>C:/Users/Alex Bugnar/Documents/New folder/TheGreatRescue/The Great Rescue/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+ <HintPath>C:/Users/Alex Bugnar/Documents/New folder/GreatRescue2Revengeance/The Great Rescue - Copy/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.InternalAPIEngineBridge.001">
- <HintPath>C:/Users/Alex Bugnar/Documents/New folder/TheGreatRescue/The Great Rescue/Library/ScriptAssemblies/Unity.InternalAPIEngineBridge.001.dll</HintPath>
+ <HintPath>C:/Users/Alex Bugnar/Documents/New folder/GreatRescue2Revengeance/The Great Rescue - Copy/Library/ScriptAssemblies/Unity.InternalAPIEngineBridge.001.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Common.Runtime">
- <HintPath>C:/Users/Alex Bugnar/Documents/New folder/TheGreatRescue/The Great Rescue/Library/ScriptAssemblies/Unity.2D.Common.Runtime.dll</HintPath>
+ <HintPath>C:/Users/Alex Bugnar/Documents/New folder/GreatRescue2Revengeance/The Great Rescue - Copy/Library/ScriptAssemblies/Unity.2D.Common.Runtime.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Animation.Editor">
- <HintPath>C:/Users/Alex Bugnar/Documents/New folder/TheGreatRescue/The Great Rescue/Library/ScriptAssemblies/Unity.2D.Animation.Editor.dll</HintPath>
+ <HintPath>C:/Users/Alex Bugnar/Documents/New folder/GreatRescue2Revengeance/The Great Rescue - Copy/Library/ScriptAssemblies/Unity.2D.Animation.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Triangle.Runtime">
- <HintPath>C:/Users/Alex Bugnar/Documents/New folder/TheGreatRescue/The Great Rescue/Library/ScriptAssemblies/Unity.2D.Triangle.Runtime.dll</HintPath>
+ <HintPath>C:/Users/Alex Bugnar/Documents/New folder/GreatRescue2Revengeance/The Great Rescue - Copy/Library/ScriptAssemblies/Unity.2D.Triangle.Runtime.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>C:/Users/Alex Bugnar/Documents/New folder/TheGreatRescue/The Great Rescue/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>C:/Users/Alex Bugnar/Documents/New folder/GreatRescue2Revengeance/The Great Rescue - Copy/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Common.Editor">
- <HintPath>C:/Users/Alex Bugnar/Documents/New folder/TheGreatRescue/The Great Rescue/Library/ScriptAssemblies/Unity.2D.Common.Editor.dll</HintPath>
+ <HintPath>C:/Users/Alex Bugnar/Documents/New folder/GreatRescue2Revengeance/The Great Rescue - Copy/Library/ScriptAssemblies/Unity.2D.Common.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.DataPrivacy">
- <HintPath>C:/Users/Alex Bugnar/Documents/New folder/TheGreatRescue/The Great Rescue/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+ <HintPath>C:/Users/Alex Bugnar/Documents/New folder/GreatRescue2Revengeance/The Great Rescue - Copy/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
  </Reference>
  <Reference Include="Unity.InternalAPIEditorBridge.001">
- <HintPath>C:/Users/Alex Bugnar/Documents/New folder/TheGreatRescue/The Great Rescue/Library/ScriptAssemblies/Unity.InternalAPIEditorBridge.001.dll</HintPath>
+ <HintPath>C:/Users/Alex Bugnar/Documents/New folder/GreatRescue2Revengeance/The Great Rescue - Copy/Library/ScriptAssemblies/Unity.InternalAPIEditorBridge.001.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2018.3.6f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -328,49 +328,49 @@
  <HintPath>C:/Program Files/Unity/Hub/Editor/2018.3.6f1/Editor/Data/PlaybackEngines/windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
  </Reference>
  <Reference Include="SharpCompress.3.5">
- <HintPath>C:/Users/Alex Bugnar/Documents/New folder/TheGreatRescue/The Great Rescue/Assets/Movinarc/PackageUninstaller/Editor/SharpCompress.3.5.dll</HintPath>
+ <HintPath>C:/Users/Alex Bugnar/Documents/New folder/GreatRescue2Revengeance/The Great Rescue - Copy/Assets/Movinarc/PackageUninstaller/Editor/SharpCompress.3.5.dll</HintPath>
  </Reference>
  <Reference Include="AsyncBridge.Net35">
- <HintPath>C:/Users/Alex Bugnar/Documents/New folder/TheGreatRescue/The Great Rescue/Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll</HintPath>
+ <HintPath>C:/Users/Alex Bugnar/Documents/New folder/GreatRescue2Revengeance/The Great Rescue - Copy/Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll</HintPath>
  </Reference>
  <Reference Include="GitHub.Api">
- <HintPath>C:/Users/Alex Bugnar/Documents/New folder/TheGreatRescue/The Great Rescue/Assets/Plugins/GitHub/Editor/GitHub.Api.dll</HintPath>
+ <HintPath>C:/Users/Alex Bugnar/Documents/New folder/GreatRescue2Revengeance/The Great Rescue - Copy/Assets/Plugins/GitHub/Editor/GitHub.Api.dll</HintPath>
  </Reference>
  <Reference Include="GitHub.Logging">
- <HintPath>C:/Users/Alex Bugnar/Documents/New folder/TheGreatRescue/The Great Rescue/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll</HintPath>
+ <HintPath>C:/Users/Alex Bugnar/Documents/New folder/GreatRescue2Revengeance/The Great Rescue - Copy/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll</HintPath>
  </Reference>
  <Reference Include="GitHub.Unity">
- <HintPath>C:/Users/Alex Bugnar/Documents/New folder/TheGreatRescue/The Great Rescue/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll</HintPath>
+ <HintPath>C:/Users/Alex Bugnar/Documents/New folder/GreatRescue2Revengeance/The Great Rescue - Copy/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll</HintPath>
  </Reference>
  <Reference Include="GitHub.UnityShim">
- <HintPath>C:/Users/Alex Bugnar/Documents/New folder/TheGreatRescue/The Great Rescue/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll</HintPath>
+ <HintPath>C:/Users/Alex Bugnar/Documents/New folder/GreatRescue2Revengeance/The Great Rescue - Copy/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll</HintPath>
  </Reference>
  <Reference Include="ReadOnlyCollectionsInterfaces">
- <HintPath>C:/Users/Alex Bugnar/Documents/New folder/TheGreatRescue/The Great Rescue/Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll</HintPath>
+ <HintPath>C:/Users/Alex Bugnar/Documents/New folder/GreatRescue2Revengeance/The Great Rescue - Copy/Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll</HintPath>
  </Reference>
  <Reference Include="sfw.net">
- <HintPath>C:/Users/Alex Bugnar/Documents/New folder/TheGreatRescue/The Great Rescue/Assets/Plugins/GitHub/Editor/sfw.net.dll</HintPath>
+ <HintPath>C:/Users/Alex Bugnar/Documents/New folder/GreatRescue2Revengeance/The Great Rescue - Copy/Assets/Plugins/GitHub/Editor/sfw.net.dll</HintPath>
  </Reference>
  <Reference Include="System.Threading">
- <HintPath>C:/Users/Alex Bugnar/Documents/New folder/TheGreatRescue/The Great Rescue/Assets/Plugins/GitHub/Editor/System.Threading.dll</HintPath>
+ <HintPath>C:/Users/Alex Bugnar/Documents/New folder/GreatRescue2Revengeance/The Great Rescue - Copy/Assets/Plugins/GitHub/Editor/System.Threading.dll</HintPath>
  </Reference>
  <Reference Include="NSubstitute">
- <HintPath>C:/Users/Alex Bugnar/Documents/New folder/TheGreatRescue/The Great Rescue/Library/PackageCache/com.unity.2d.common@1.0.11-preview.1/Tests/Editor/Lib/NSubstitute/NSubstitute.dll</HintPath>
+ <HintPath>C:/Users/Alex Bugnar/Documents/New folder/GreatRescue2Revengeance/The Great Rescue - Copy/Library/PackageCache/com.unity.2d.common@1.0.11-preview.1/Tests/Editor/Lib/NSubstitute/NSubstitute.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.Advertisements">
- <HintPath>C:/Users/Alex Bugnar/Documents/New folder/TheGreatRescue/The Great Rescue/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
+ <HintPath>C:/Users/Alex Bugnar/Documents/New folder/GreatRescue2Revengeance/The Great Rescue - Copy/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.Editor">
- <HintPath>C:/Users/Alex Bugnar/Documents/New folder/TheGreatRescue/The Great Rescue/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
+ <HintPath>C:/Users/Alex Bugnar/Documents/New folder/GreatRescue2Revengeance/The Great Rescue - Copy/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.StandardEvents">
- <HintPath>C:/Users/Alex Bugnar/Documents/New folder/TheGreatRescue/The Great Rescue/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
+ <HintPath>C:/Users/Alex Bugnar/Documents/New folder/GreatRescue2Revengeance/The Great Rescue - Copy/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.Tracker">
- <HintPath>C:/Users/Alex Bugnar/Documents/New folder/TheGreatRescue/The Great Rescue/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
+ <HintPath>C:/Users/Alex Bugnar/Documents/New folder/GreatRescue2Revengeance/The Great Rescue - Copy/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.Purchasing">
- <HintPath>C:/Users/Alex Bugnar/Documents/New folder/TheGreatRescue/The Great Rescue/Library/PackageCache/com.unity.purchasing@2.0.3/Editor/UnityEditor.Purchasing.dll</HintPath>
+ <HintPath>C:/Users/Alex Bugnar/Documents/New folder/GreatRescue2Revengeance/The Great Rescue - Copy/Library/PackageCache/com.unity.purchasing@2.0.3/Editor/UnityEditor.Purchasing.dll</HintPath>
  </Reference>
  <Reference Include="mscorlib">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2018.3.6f1/Editor/Data/MonoBleedingEdge/lib/mono/2.0-api/mscorlib.dll</HintPath>
