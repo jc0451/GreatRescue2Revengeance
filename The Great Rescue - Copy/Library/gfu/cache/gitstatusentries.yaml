@@ -13,13 +13,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2019-03-22T13:48:48.544+01:00
-  initializedAtString: 2019-03-22T13:41:03.491+01:00
-  entries:
-  - path: The Great Rescue\Assets\Sprites\Animation\Main char Animation Doll.controller
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\TheGreatRescue\The Great Rescue\Assets\Sprites\Animation\Main
-      char Animation Doll.controller
-    projectPath: Assets\Sprites\Animation\Main char Animation Doll.controller
-    originalPath: 
-    status: 3
-    staged: 0
+  lastUpdatedAtString: 2019-03-22T14:42:34.643+01:00
+  initializedAtString: 2019-03-22T14:31:07.585+01:00
+  entries: []

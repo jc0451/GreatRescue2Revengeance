@@ -4,14 +4,12 @@ using UnityEngine;
 
 public class PlayerScript : MonoBehaviour
 {
-    Animator m_Animator;
     AudioSource m_MyAudioSource;
     public static int health = 5;
     public static bool pierceshot = false;
 
     public float piercingtime = 5f;
     private float timeelapsed = 0;
-
 
     public GameObject PwSound;
     private GameObject PwSoundInstace;
@@ -40,9 +38,8 @@ public class PlayerScript : MonoBehaviour
         Destroy(gameObject);
     }
 
-    void Start()
+    void Start() 
     {
-        m_Animator = gameObject.GetComponent<Animator>();
         topb = top.transform.position;
         bottomb = bottom.transform.position;
         rightb = right.transform.position;
@@ -102,40 +99,26 @@ public class PlayerScript : MonoBehaviour
         direction = Vector2.zero;
 
         if (Input.GetKey(KeyCode.W))
-        {
-            if (playerpos.y <= topb.y - 12)
-            {
-                direction += Vector2.up;
-            }
-            m_Animator.SetBool("IsWalking", true);
+        { if(playerpos.y<=topb.y-12)
+            direction += Vector2.up;
         }
 
         if (Input.GetKey(KeyCode.A))
         {
             if (playerpos.x >= leftb.x + 11)
-            {
-
                 direction += Vector2.left;
-            }
-            m_Animator.SetBool("IsWalking", true);
         }
 
         if (Input.GetKey(KeyCode.S))
         {
             if (playerpos.y >= bottomb.y + 15)
-            {
                 direction += Vector2.down;
-            }
-            m_Animator.SetBool("IsWalking", true);
         }
 
         if (Input.GetKey(KeyCode.D))
         {
-            if (playerpos.x <= rightb.x - 12)
-            {
-                direction += Vector2.right;
-            }
-            m_Animator.SetBool("IsWalking", true);
+           if (playerpos.x <= rightb.x - 12)
+            direction += Vector2.right;
         }
     }
 
