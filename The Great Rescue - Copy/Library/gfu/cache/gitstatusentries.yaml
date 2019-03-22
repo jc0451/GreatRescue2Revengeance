@@ -13,20 +13,41 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2019-03-22T16:07:43.944+01:00
+  lastUpdatedAtString: 2019-03-22T16:08:39.829+01:00
   initializedAtString: 2019-03-22T14:43:20.384+01:00
   entries:
+  - path: The Great Rescue - Copy\Library\CrashedAssetImports.txt
+    fullPath: C:\Users\ham_p\OneDrive\Dokument\GitHub\GreatRescue2Revengeance\The
+      Great Rescue - Copy\Library\CrashedAssetImports.txt
+    projectPath: Library\CrashedAssetImports.txt
+    originalPath: 
+    status: 5
+    staged: 0
   - path: The Great Rescue - Copy\Library\gfu\cache\branches.yaml
     fullPath: C:\Users\ham_p\OneDrive\Dokument\GitHub\GreatRescue2Revengeance\The
       Great Rescue - Copy\Library\gfu\cache\branches.yaml
     projectPath: Library\gfu\cache\branches.yaml
     originalPath: 
-    status: 5
+    status: 3
     staged: 0
-  - path: The Great Rescue - Copy\Library\shadercompiler-UnityShaderCompiler.exe0.log
+  - path: The Great Rescue - Copy\Library\gfu\cache\gitlog.yaml
     fullPath: C:\Users\ham_p\OneDrive\Dokument\GitHub\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Library\shadercompiler-UnityShaderCompiler.exe0.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      Great Rescue - Copy\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: The Great Rescue - Copy\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\ham_p\OneDrive\Dokument\GitHub\GreatRescue2Revengeance\The
+      Great Rescue - Copy\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: The Great Rescue - Copy\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\ham_p\OneDrive\Dokument\GitHub\GreatRescue2Revengeance\The
+      Great Rescue - Copy\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
     originalPath: 
     status: 3
     staged: 0

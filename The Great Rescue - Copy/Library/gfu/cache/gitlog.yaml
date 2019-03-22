@@ -13,9 +13,70 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2019-03-22T16:07:44.420+01:00
+  lastUpdatedAtString: 2019-03-22T16:08:39.596+01:00
   initializedAtString: 2019-03-22T15:10:43.011+01:00
   log:
+  - commitID: df9876887c03ae758c74ed6d391612dbb17f7930
+    mergeA: 
+    mergeB: 
+    authorName: HampusPaulsen
+    authorEmail: 47183982+HampusPaulsen@users.noreply.github.com
+    commitEmail: 47183982+HampusPaulsen@users.noreply.github.com
+    commitName: HampusPaulsen
+    summary: changes
+    description: changes
+    timeString: 2019-03-22T16:08:13.000+01:00
+    commitTimeString: 2019-03-22T16:08:13.000+01:00
+    changes:
+    - path: The Great Rescue - Copy\Assets\Scenes\1. HowToPlayScene.unity
+      fullPath: C:\Users\ham_p\OneDrive\Dokument\GitHub\GreatRescue2Revengeance\The
+        Great Rescue - Copy\Assets\Scenes\1. HowToPlayScene.unity
+      projectPath: Assets\Scenes\1. HowToPlayScene.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: The Great Rescue - Copy\Library\CrashedAssetImports.txt
+      fullPath: C:\Users\ham_p\OneDrive\Dokument\GitHub\GreatRescue2Revengeance\The
+        Great Rescue - Copy\Library\CrashedAssetImports.txt
+      projectPath: Library\CrashedAssetImports.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: The Great Rescue - Copy\Library\assetDatabase3
+      fullPath: C:\Users\ham_p\OneDrive\Dokument\GitHub\GreatRescue2Revengeance\The
+        Great Rescue - Copy\Library\assetDatabase3
+      projectPath: Library\assetDatabase3
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: The Great Rescue - Copy\Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\ham_p\OneDrive\Dokument\GitHub\GreatRescue2Revengeance\The
+        Great Rescue - Copy\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: The Great Rescue - Copy\Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\ham_p\OneDrive\Dokument\GitHub\GreatRescue2Revengeance\The
+        Great Rescue - Copy\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: The Great Rescue - Copy\Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\ham_p\OneDrive\Dokument\GitHub\GreatRescue2Revengeance\The
+        Great Rescue - Copy\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: The Great Rescue - Copy\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: C:\Users\ham_p\OneDrive\Dokument\GitHub\GreatRescue2Revengeance\The
+        Great Rescue - Copy\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      status: 3
+      staged: 0
   - commitID: 6a7701eba38dbc80f8010f9a5159a87f90976310
     mergeA: 
     mergeB: 
