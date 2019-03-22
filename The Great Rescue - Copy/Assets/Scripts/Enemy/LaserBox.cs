@@ -24,7 +24,7 @@ public class LaserBox : MonoBehaviour
        
         if (timeactual <= 2.0f)
         {
-            
+            SendMessageUpwards("chargingup");
             gameObject.transform.GetChild(0).gameObject.SetActive(true);
            
         }
@@ -32,7 +32,7 @@ public class LaserBox : MonoBehaviour
       
         if (timeactual <= 0.0f)
         {
-           
+            SendMessageUpwards("shootingup");
             gameObject.transform.GetChild(0).gameObject.SetActive(false);
             var hurtboxob = (GameObject)Instantiate(hurtbox);
             hurtboxob.transform.position = gameObject.transform.position;
