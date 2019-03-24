@@ -5,6 +5,7 @@ using UnityEngine;
 
 public class EnemyGun : MonoBehaviour
 {
+
     AudioSource m_MyAudioSource;
     public GameObject EnemyBulletGO;
     public GameObject soundeffect;
@@ -18,6 +19,7 @@ public class EnemyGun : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+      
         firerate = Random.Range(fireratemin, fireratemax);
         time = 0;
     }
@@ -28,13 +30,14 @@ public class EnemyGun : MonoBehaviour
         if (BgScroll.MoveBg == false)
         {
             time += Time.deltaTime;
+           
             if (time >= firerate)
             {
                 time = 0;
 
                 ResetFire();
-                
-                Invoke("FireEnemyBullet", 2f);
+                SendMessageUpwards("shootanim");
+                Invoke("FireEnemyBullet",0.2f);
             }
         }
 
@@ -50,6 +53,7 @@ public class EnemyGun : MonoBehaviour
         GameObject player = GameObject.Find("PlayerCharacter");
         if (player != null)
         {
+            
             GameObject bullet = (GameObject)Instantiate(EnemyBulletGO);
             bullet.transform.position = transform.position;
             Vector2 direction = player.transform.position - bullet.transform.position;

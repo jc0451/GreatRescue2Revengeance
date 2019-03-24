@@ -5,7 +5,7 @@ using UnityEngine;
 public class RangedEnemy2 : MonoBehaviour
 {
 
-
+    Animator m_Animator;
     private Vector2 target;
     private Vector2 position;
     public float speed;
@@ -17,6 +17,8 @@ public class RangedEnemy2 : MonoBehaviour
     public float colortime = 0.5f;
     private float time = 0;
     private bool changecolor=false;
+    private bool charging= false;
+    private bool shooting = false;
 
 
 
@@ -28,7 +30,7 @@ public class RangedEnemy2 : MonoBehaviour
     void Start()
     {
 
-        
+        m_Animator = gameObject.GetComponent<Animator>();
         target = targ.transform.position;
         
 
@@ -37,6 +39,9 @@ public class RangedEnemy2 : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        
+        position = transform.position;
+        
         if (changecolor == true)
         {
             time += Time.deltaTime;
@@ -56,8 +61,20 @@ public class RangedEnemy2 : MonoBehaviour
 
             Destroy(gameObject);
         }
+        if (charging == true)
+        {
+            m_Animator.SetTrigger("C");
+            charging = false;
 
-   
+        }
+        if (shooting == true)
+        {
+            m_Animator.SetTrigger("S");
+            shooting = false;
+
+        }
+
+
         if (health <= 0)
         {
                 
@@ -76,6 +93,11 @@ public class RangedEnemy2 : MonoBehaviour
 
         transform.position = Vector2.MoveTowards(transform.position, target, speed * Time.deltaTime);
 
+        if (position == target)
+        {
+            m_Animator.SetTrigger("I");
+        }
+
 
 
     }
@@ -88,5 +110,13 @@ public class RangedEnemy2 : MonoBehaviour
             changecolor = true;
             health--;
         }
+    }
+    void chargingup()
+    {
+        charging = true;
+    }
+    void shootingup()
+    {
+        shooting = true;
     }
 }
