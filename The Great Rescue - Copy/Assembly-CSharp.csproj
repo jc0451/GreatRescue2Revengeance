@@ -67,9 +67,11 @@
      <Compile Include="Assets\HoverText.cs" />
      <Compile Include="Assets\InstructionScript.cs" />
      <Compile Include="Assets\LoadGameScript.cs" />
+     <Compile Include="Assets\NextSceneScript.cs" />
      <Compile Include="Assets\PiercingIcon.cs" />
      <Compile Include="Assets\PlaceholderPlayerBulletScript.cs" />
      <Compile Include="Assets\PlayClip.cs" />
+     <Compile Include="Assets\PortraitChanger.cs" />
      <Compile Include="Assets\ReloadGameScript.cs" />
      <Compile Include="Assets\ScoreScript.cs" />
      <Compile Include="Assets\Scripts\Enemy\EnemyBullet.cs" />
