@@ -17489,6 +17489,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2129480825}
   - component: {fileID: 2129480826}
+  - component: {fileID: 2129480827}
   m_Layer: 0
   m_Name: Portrait
   m_TagString: Untagged
@@ -17558,6 +17559,23 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &2129480827
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2129480824}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2089fb5b0e2538c49873e84a29c86353, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Health5: {fileID: 21300000, guid: e359d864b0502df459c8bcff1200a075, type: 3}
+  Health4: {fileID: 21300000, guid: 105887cb588151c489bbcb9c4e12dee6, type: 3}
+  Health3: {fileID: 21300000, guid: abff6cee15fc59b46a8d5817b61e4143, type: 3}
+  Health2: {fileID: 21300000, guid: 468c9b2ac655d924a91fc220c4682cf6, type: 3}
+  Health1: {fileID: 21300000, guid: 502adc5a1ca461c418d4b3b2ef5834e1, type: 3}
 --- !u!1001 &1103323479835512666
 PrefabInstance:
   m_ObjectHideFlags: 0
