@@ -11,6 +11,7 @@ public class RangedEnemy2 : MonoBehaviour
     public float speed;
     public int health = 3;
     private float direction;
+    public GameObject deathloc;
     public GameObject targ;
     public GameObject DeathSound;
     public GameObject DeathParticle;
@@ -83,7 +84,7 @@ public class RangedEnemy2 : MonoBehaviour
             gameObject.SendMessageUpwards("Respawn");
             DeathSound = Instantiate(DeathSound) as GameObject;
             DeathParticle = Instantiate(DeathParticle) as GameObject;
-            DeathParticle.transform.position = gameObject.transform.position;
+            DeathParticle.transform.position = deathloc.transform.position;
             DeathSound.transform.position = gameObject.transform.position;
             PowerUpManager.powerspawn = true;
             PowerUpManager.entitypos=position;

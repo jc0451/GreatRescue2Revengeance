@@ -43,6 +43,7 @@ public class EnemyBullet : MonoBehaviour
         {
             Vector2 position = transform.position;
             position += _direction * speed * Time.deltaTime;
+            transform.Rotate(Vector3.forward * 10);
             transform.position = position;
             Vector2 min = Camera.main.ViewportToWorldPoint(new Vector2(0, 0));
             Vector2 max = Camera.main.ViewportToWorldPoint(new Vector2(1, 1));

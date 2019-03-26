@@ -5,7 +5,7 @@ using UnityEngine;
 public class MeleeEnemy : MonoBehaviour
 {
 
-
+    Animator m_Animator;
     private Vector2 target;
     private Vector2 position;
     public float speed;
@@ -27,7 +27,7 @@ public class MeleeEnemy : MonoBehaviour
     void Start()
     {
 
-        
+        m_Animator = gameObject.GetComponent<Animator>();
 
     }
 
@@ -69,8 +69,13 @@ public class MeleeEnemy : MonoBehaviour
         GameObject player = GameObject.Find("PlayerCharacter");
         target = player.transform.position;
         position = gameObject.transform.position;
-        if(target.x <= position.x -10||target.y>=position.y+20|| target.y <= position.y - 20||target.x>=position.x +10)
-        transform.position = Vector2.MoveTowards(transform.position, target, speed * Time.deltaTime);
+        if (target.x <= position.x - 10 || target.y >= position.y + 20 || target.y <= position.y - 20 || target.x >= position.x + 10)
+        {
+            m_Animator.SetTrigger("W");
+            transform.position = Vector2.MoveTowards(transform.position, target, speed * Time.deltaTime);
+        }
+        else
+            m_Animator.SetTrigger("I");
 
 
 

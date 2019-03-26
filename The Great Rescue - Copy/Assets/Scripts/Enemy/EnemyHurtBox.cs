@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class EnemyHurtBox : MonoBehaviour
 {
+    Animator m_Animator;
     AudioSource m_MyAudioSource;
     public GameObject hurtbox;
     public float time= 5.0f;
@@ -12,6 +13,7 @@ public class EnemyHurtBox : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        m_Animator = gameObject.GetComponent<Animator>();
         m_MyAudioSource = GetComponent<AudioSource>();
         timeactual = time;
     }
@@ -25,6 +27,7 @@ public class EnemyHurtBox : MonoBehaviour
         {
             GameObject hurtboxob = (GameObject)Instantiate(hurtbox);
             m_MyAudioSource.Play();
+            m_Animator.SetTrigger("H");
             hurtboxob.transform.position = gameObject.transform.position;
             timeactual = time;
         }

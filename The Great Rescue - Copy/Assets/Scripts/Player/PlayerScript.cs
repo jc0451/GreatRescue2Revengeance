@@ -44,6 +44,7 @@ public class PlayerScript : MonoBehaviour
     {
         m_Animator = gameObject.GetComponent<Animator>();
         m_Animator.SetBool("IsWalking", false);
+        m_Animator.SetBool("Backwards", false);
         topb = top.transform.position;
         bottomb = bottom.transform.position;
         rightb = right.transform.position;
@@ -122,11 +123,11 @@ public class PlayerScript : MonoBehaviour
 
                 direction += Vector2.left;
             }
-            m_Animator.SetBool("IsWalking", true);
+            m_Animator.SetBool("Backwards", true);
         }
         if (Input.GetKeyUp(KeyCode.A))
         {
-            m_Animator.SetBool("IsWalking", false);
+            m_Animator.SetBool("Backwards", false);
         }
 
         if (Input.GetKey(KeyCode.S))
@@ -186,6 +187,11 @@ public class PlayerScript : MonoBehaviour
             health--;
         }
         //checks is colliding with enemy hurtbox
+      
+
+    }
+    void OnTriggerEnter2D(Collider2D col)
+    {
         if (col.gameObject.tag == "pointy")
         {
             HealthScore.HealthValue -= 1;
@@ -193,10 +199,6 @@ public class PlayerScript : MonoBehaviour
             health--;
 
         }
-
-    }
-    void OnTriggerEnter2D(Collider2D col)
-    {
         if (col.gameObject.tag == "laser")
         {
             HealthScore.HealthValue -= 1;
