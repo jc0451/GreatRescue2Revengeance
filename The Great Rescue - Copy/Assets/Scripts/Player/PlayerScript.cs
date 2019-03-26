@@ -8,9 +8,12 @@ public class PlayerScript : MonoBehaviour
     AudioSource m_MyAudioSource;
     public static int health = 5;
     public static bool pierceshot = false;
+    public static bool multishot = false;
 
     public float piercingtime = 5f;
+    public float multiTime = 5f;
     private float timeelapsed = 0;
+    private float ImmunityTimer = 0;
 
 
     public GameObject PwSound;
@@ -75,17 +78,29 @@ public class PlayerScript : MonoBehaviour
             }
 
         }
+        if (multishot == true)
+        {
+            PlayerGun.multi = true;
+            timeelapsed += Time.deltaTime;
+            if (timeelapsed >= multiTime)
+            {
+                multishot = false;
+                PlayerGun.multi = false;
+                timeelapsed = 0;
+            }
+        }
         if (health > 5)
         {
             health = 5;
         }
         if (health <= 0)
         {
-
             m_MyAudioSource.Play();
             Die();
-
-
+        }
+        if (ImmunityTimer > 0)
+        {
+            ImmunityTimer--;
         }
         //if (BgScroll.MoveBg == false)
         //{
@@ -161,11 +176,16 @@ public class PlayerScript : MonoBehaviour
     void OnCollisionEnter2D(Collision2D col)
     {
         //checks if colliding with enemies
-        if (col.gameObject.tag == "RangedEnemy1")
+        if (ImmunityTimer <= 0)
         {
-            HealthScore.HealthValue -= 1;
-            m_MyAudioSource.Play();
-            health--;
+            if (col.gameObject.tag == "RangedEnemy1" || col.gameObject.name == "EnemyBulletGO(Clone)")
+            {
+                HealthScore.HealthValue -= 1;
+                m_MyAudioSource.Play();
+                health--;
+
+                ImmunityTimer = 20;
+            }
         }
         //checks if colliding with piercing powerup
         if (col.gameObject.tag == "piercing")
@@ -178,13 +198,10 @@ public class PlayerScript : MonoBehaviour
             PwSoundInstace = Instantiate(PwSound) as GameObject;
 
         }
-
-        //checks if colliding with Enemy Bullets
-        if (col.gameObject.name == "EnemyBulletGO(Clone)")
+        if (col.gameObject.tag == "multi")
         {
-            HealthScore.HealthValue -= 1;
-            m_MyAudioSource.Play();
-            health--;
+            PwSoundInstace = Instantiate(PwSound) as GameObject;
+            multishot = true;
         }
         //checks is colliding with enemy hurtbox
       
@@ -192,25 +209,16 @@ public class PlayerScript : MonoBehaviour
     }
     void OnTriggerEnter2D(Collider2D col)
     {
-        if (col.gameObject.tag == "pointy")
+        if (ImmunityTimer <= 0)
         {
-            HealthScore.HealthValue -= 1;
-            m_MyAudioSource.Play();
-            health--;
+            if (col.gameObject.tag == "pointy" || col.gameObject.tag == "laser" || col.gameObject.tag == "RangedEnemy1")
+            {
+                HealthScore.HealthValue -= 1;
+                m_MyAudioSource.Play();
+                health--;
 
-        }
-        if (col.gameObject.tag == "laser")
-        {
-            HealthScore.HealthValue -= 1;
-            m_MyAudioSource.Play();
-            health--;
-
-        }
-        if (col.gameObject.tag == "RangedEnemy1")
-        {
-            HealthScore.HealthValue -= 1;
-            m_MyAudioSource.Play();
-            health--;
+                ImmunityTimer = 20;
+            }
         }
     }
 

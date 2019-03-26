@@ -13,488 +13,768 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2019-03-26T19:51:22.967+01:00
-  initializedAtString: 2019-03-26T19:34:31.106+01:00
+  lastUpdatedAtString: 2019-03-26T23:00:59.050+01:00
+  initializedAtString: 2019-03-26T22:31:11.976+01:00
   entries:
   - path: The Great Rescue - Copy\Assembly-CSharp.csproj
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Assembly-CSharp.csproj
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Assembly-CSharp.csproj
     projectPath: Assembly-CSharp.csproj
     originalPath: 
     status: 3
     staged: 0
   - path: The Great Rescue - Copy\Assembly-CSharp-Editor.csproj
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Assembly-CSharp-Editor.csproj
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Assembly-CSharp-Editor.csproj
     projectPath: Assembly-CSharp-Editor.csproj
     originalPath: 
     status: 3
     staged: 0
   - path: The Great Rescue - Copy\Assembly-CSharp-Editor-firstpass.csproj
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Assembly-CSharp-Editor-firstpass.csproj
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Assembly-CSharp-Editor-firstpass.csproj
     projectPath: Assembly-CSharp-Editor-firstpass.csproj
     originalPath: 
     status: 3
     staged: 0
-  - path: The Great Rescue - Copy\Assets\chargeffs.cs
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Assets\chargeffs.cs
-    projectPath: Assets\chargeffs.cs
+  - path: The Great Rescue - Copy\Assets\Prefabs\MultiPowerUp.prefab
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Assets\Prefabs\MultiPowerUp.prefab
+    projectPath: Assets\Prefabs\MultiPowerUp.prefab
     originalPath: 
     status: 1
     staged: 0
-  - path: The Great Rescue - Copy\Assets\chargeffs.cs.meta
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Assets\chargeffs.cs.meta
-    projectPath: Assets\chargeffs.cs.meta
+  - path: The Great Rescue - Copy\Assets\Prefabs\MultiPowerUp.prefab.meta
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Assets\Prefabs\MultiPowerUp.prefab.meta
+    projectPath: Assets\Prefabs\MultiPowerUp.prefab.meta
     originalPath: 
     status: 1
-    staged: 0
-  - path: The Great Rescue - Copy\Assets\Prefabs\Enemies\Chargeup.anim
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Assets\Prefabs\Enemies\Chargeup.anim
-    projectPath: Assets\Prefabs\Enemies\Chargeup.anim
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: The Great Rescue - Copy\Assets\Prefabs\Enemies\Chargeup.anim.meta
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Assets\Prefabs\Enemies\Chargeup.anim.meta
-    projectPath: Assets\Prefabs\Enemies\Chargeup.anim.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: The Great Rescue - Copy\Assets\Prefabs\Enemies\Laserbox.prefab
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Assets\Prefabs\Enemies\Laserbox.prefab
-    projectPath: Assets\Prefabs\Enemies\Laserbox.prefab
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: The Great Rescue - Copy\Assets\Prefabs\Enemies\Laserbox.prefab.meta
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Assets\Prefabs\Enemies\Laserbox.prefab.meta
-    projectPath: Assets\Prefabs\Enemies\Laserbox.prefab.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: The Great Rescue - Copy\Assets\Prefabs\Enemies\Troll.prefab
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Assets\Prefabs\Enemies\Troll.prefab
-    projectPath: Assets\Prefabs\Enemies\Troll.prefab
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: The Great Rescue - Copy\Assets\Prefabs\Laserbox.prefab
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Assets\Prefabs\Laserbox.prefab
-    projectPath: Assets\Prefabs\Laserbox.prefab
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: The Great Rescue - Copy\Assets\Prefabs\Laserbox.prefab.meta
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Assets\Prefabs\Laserbox.prefab.meta
-    projectPath: Assets\Prefabs\Laserbox.prefab.meta
-    originalPath: 
-    status: 5
     staged: 0
   - path: The Great Rescue - Copy\Assets\Scenes\3. MainScene.unity
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Assets\Scenes\3. MainScene.unity
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Assets\Scenes\3. MainScene.unity
     projectPath: Assets\Scenes\3. MainScene.unity
     originalPath: 
     status: 3
     staged: 0
-  - path: The Great Rescue - Copy\Assets\Scripts\Enemy\LaserBox.cs
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Assets\Scripts\Enemy\LaserBox.cs
-    projectPath: Assets\Scripts\Enemy\LaserBox.cs
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: The Great Rescue - Copy\Assets\Sprites\Animation\Laser Anim.anim
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Assets\Sprites\Animation\Laser Anim.anim
-    projectPath: Assets\Sprites\Animation\Laser Anim.anim
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: The Great Rescue - Copy\Assets\Sprites\Charge.meta
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Assets\Sprites\Charge.meta
-    projectPath: Assets\Sprites\Charge.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: The Great Rescue - Copy\Assets\Sprites\Charge\Laser-charge-orb_Frame_1.png
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Assets\Sprites\Charge\Laser-charge-orb_Frame_1.png
-    projectPath: Assets\Sprites\Charge\Laser-charge-orb_Frame_1.png
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: The Great Rescue - Copy\Assets\Sprites\Charge\Laser-charge-orb_Frame_1.png.meta
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Assets\Sprites\Charge\Laser-charge-orb_Frame_1.png.meta
-    projectPath: Assets\Sprites\Charge\Laser-charge-orb_Frame_1.png.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: The Great Rescue - Copy\Assets\Sprites\Charge\Laser-charge-orb_frame_2.png
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Assets\Sprites\Charge\Laser-charge-orb_frame_2.png
-    projectPath: Assets\Sprites\Charge\Laser-charge-orb_frame_2.png
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: The Great Rescue - Copy\Assets\Sprites\Charge\Laser-charge-orb_frame_2.png.meta
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Assets\Sprites\Charge\Laser-charge-orb_frame_2.png.meta
-    projectPath: Assets\Sprites\Charge\Laser-charge-orb_frame_2.png.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: The Great Rescue - Copy\Assets\Sprites\Charge\Laser-charge-orb_frame_3.png
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Assets\Sprites\Charge\Laser-charge-orb_frame_3.png
-    projectPath: Assets\Sprites\Charge\Laser-charge-orb_frame_3.png
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: The Great Rescue - Copy\Assets\Sprites\Charge\Laser-charge-orb_frame_3.png.meta
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Assets\Sprites\Charge\Laser-charge-orb_frame_3.png.meta
-    projectPath: Assets\Sprites\Charge\Laser-charge-orb_frame_3.png.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: The Great Rescue - Copy\Assets\Sprites\Charge\Laser-charge-orb_frame_4.png
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Assets\Sprites\Charge\Laser-charge-orb_frame_4.png
-    projectPath: Assets\Sprites\Charge\Laser-charge-orb_frame_4.png
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: The Great Rescue - Copy\Assets\Sprites\Charge\Laser-charge-orb_frame_4.png.meta
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Assets\Sprites\Charge\Laser-charge-orb_frame_4.png.meta
-    projectPath: Assets\Sprites\Charge\Laser-charge-orb_frame_4.png.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: The Great Rescue - Copy\Assets\Sprites\Charge\Laser-charge-orb_frame_5.png
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Assets\Sprites\Charge\Laser-charge-orb_frame_5.png
-    projectPath: Assets\Sprites\Charge\Laser-charge-orb_frame_5.png
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: The Great Rescue - Copy\Assets\Sprites\Charge\Laser-charge-orb_frame_5.png.meta
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Assets\Sprites\Charge\Laser-charge-orb_frame_5.png.meta
-    projectPath: Assets\Sprites\Charge\Laser-charge-orb_frame_5.png.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: The Great Rescue - Copy\Assets\Sprites\Laser-charge-orb_Sprite_sheet 1.png
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Assets\Sprites\Laser-charge-orb_Sprite_sheet 1.png
-    projectPath: Assets\Sprites\Laser-charge-orb_Sprite_sheet 1.png
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: The Great Rescue - Copy\Assets\Sprites\Laser-charge-orb_Sprite_sheet 1.png.meta
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Assets\Sprites\Laser-charge-orb_Sprite_sheet 1.png.meta
-    projectPath: Assets\Sprites\Laser-charge-orb_Sprite_sheet 1.png.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: The Great Rescue - Copy\Assets\Sprites\Laser-charge-orb_Sprite_sheet.png
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Assets\Sprites\Laser-charge-orb_Sprite_sheet.png
-    projectPath: Assets\Sprites\Laser-charge-orb_Sprite_sheet.png
+  - path: The Great Rescue - Copy\Assets\Scripts\Player\PlayerDeath.cs
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Assets\Scripts\Player\PlayerDeath.cs
+    projectPath: Assets\Scripts\Player\PlayerDeath.cs
     originalPath: 
     status: 5
     staged: 0
-  - path: The Great Rescue - Copy\Assets\Sprites\Laser-charge-orb_Sprite_sheet.png.meta
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Assets\Sprites\Laser-charge-orb_Sprite_sheet.png.meta
-    projectPath: Assets\Sprites\Laser-charge-orb_Sprite_sheet.png.meta
+  - path: The Great Rescue - Copy\Assets\Scripts\Player\PlayerDeath.cs.meta
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Assets\Scripts\Player\PlayerDeath.cs.meta
+    projectPath: Assets\Scripts\Player\PlayerDeath.cs.meta
     originalPath: 
     status: 5
+    staged: 0
+  - path: The Great Rescue - Copy\Assets\Scripts\Player\PlayerGun.cs
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Assets\Scripts\Player\PlayerGun.cs
+    projectPath: Assets\Scripts\Player\PlayerGun.cs
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: The Great Rescue - Copy\Assets\Scripts\Player\PlayerScript.cs
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Assets\Scripts\Player\PlayerScript.cs
+    projectPath: Assets\Scripts\Player\PlayerScript.cs
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: The Great Rescue - Copy\Assets\Scripts\PowerUps\MultiPowerUp.cs
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Assets\Scripts\PowerUps\MultiPowerUp.cs
+    projectPath: Assets\Scripts\PowerUps\MultiPowerUp.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: The Great Rescue - Copy\Assets\Scripts\PowerUps\MultiPowerUp.cs.meta
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Assets\Scripts\PowerUps\MultiPowerUp.cs.meta
+    projectPath: Assets\Scripts\PowerUps\MultiPowerUp.cs.meta
+    originalPath: 
+    status: 1
     staged: 0
   - path: The Great Rescue - Copy\Library\assetDatabase3
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Library\assetDatabase3
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Library\assetDatabase3
     projectPath: Library\assetDatabase3
     originalPath: 
     status: 3
     staged: 0
-  - path: The Great Rescue - Copy\Library\CurrentLayout.dwlt
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Library\CurrentLayout.dwlt
-    projectPath: Library\CurrentLayout.dwlt
-    originalPath: 
-    status: 3
-    staged: 0
   - path: The Great Rescue - Copy\Library\CurrentMaximizeLayout.dwlt
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Library\CurrentMaximizeLayout.dwlt
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Library\CurrentMaximizeLayout.dwlt
     projectPath: Library\CurrentMaximizeLayout.dwlt
     originalPath: 
     status: 3
     staged: 0
-  - path: The Great Rescue - Copy\Library\gfu\cache\branches.yaml
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Library\gfu\cache\branches.yaml
-    projectPath: Library\gfu\cache\branches.yaml
+  - path: The Great Rescue - Copy\Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
     originalPath: 
     status: 3
     staged: 0
   - path: The Great Rescue - Copy\Library\gfu\cache\gitstatusentries.yaml
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Library\gfu\cache\gitstatusentries.yaml
     projectPath: Library\gfu\cache\gitstatusentries.yaml
     originalPath: 
     status: 3
     staged: 0
   - path: The Great Rescue - Copy\Library\gfu\cache\gittrackingstatus.yaml
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Library\gfu\cache\gittrackingstatus.yaml
     projectPath: Library\gfu\cache\gittrackingstatus.yaml
     originalPath: 
     status: 3
     staged: 0
   - path: The Great Rescue - Copy\Library\gfu\cache\repoinfo.yaml
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Library\gfu\cache\repoinfo.yaml
     projectPath: Library\gfu\cache\repoinfo.yaml
     originalPath: 
     status: 3
     staged: 0
   - path: The Great Rescue - Copy\Library\InspectorExpandedItems.asset
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Library\InspectorExpandedItems.asset
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Library\InspectorExpandedItems.asset
     projectPath: Library\InspectorExpandedItems.asset
     originalPath: 
     status: 3
     staged: 0
-  - path: The Great Rescue - Copy\Library\metadata\8a\8ae6c7c74e1bcd84bb3a455c0e5a7333
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Library\metadata\8a\8ae6c7c74e1bcd84bb3a455c0e5a7333
-    projectPath: Library\metadata\8a\8ae6c7c74e1bcd84bb3a455c0e5a7333
+  - path: The Great Rescue - Copy\Library\metadata\10\10145f279f90346bbb61712ff585828b
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Library\metadata\10\10145f279f90346bbb61712ff585828b
+    projectPath: Library\metadata\10\10145f279f90346bbb61712ff585828b
     originalPath: 
     status: 3
     staged: 0
-  - path: The Great Rescue - Copy\Library\metadata\b5\b55b0423651ad9941ad61553fc6474e1
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Library\metadata\b5\b55b0423651ad9941ad61553fc6474e1
-    projectPath: Library\metadata\b5\b55b0423651ad9941ad61553fc6474e1
+  - path: The Great Rescue - Copy\Library\metadata\13\1322fd896bbb15bb6e335591b766ae62.info
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Library\metadata\13\1322fd896bbb15bb6e335591b766ae62.info
+    projectPath: Library\metadata\13\1322fd896bbb15bb6e335591b766ae62.info
     originalPath: 
     status: 3
     staged: 0
-  - path: The Great Rescue - Copy\Library\metadata\b5\b55b0423651ad9941ad61553fc6474e1.info
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Library\metadata\b5\b55b0423651ad9941ad61553fc6474e1.info
-    projectPath: Library\metadata\b5\b55b0423651ad9941ad61553fc6474e1.info
+  - path: The Great Rescue - Copy\Library\metadata\1b\1b45e34b5d565204db1307b88755e76d
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Library\metadata\1b\1b45e34b5d565204db1307b88755e76d
+    projectPath: Library\metadata\1b\1b45e34b5d565204db1307b88755e76d
     originalPath: 
     status: 3
     staged: 0
-  - path: The Great Rescue - Copy\Library\metadata\f6\f66cbe39da100fa45a4853365fe076fe
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Library\metadata\f6\f66cbe39da100fa45a4853365fe076fe
-    projectPath: Library\metadata\f6\f66cbe39da100fa45a4853365fe076fe
+  - path: The Great Rescue - Copy\Library\metadata\25\25ebe415cc14c4f4ea15c34a796b75bb
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Library\metadata\25\25ebe415cc14c4f4ea15c34a796b75bb
+    projectPath: Library\metadata\25\25ebe415cc14c4f4ea15c34a796b75bb
     originalPath: 
     status: 3
     staged: 0
-  - path: The Great Rescue - Copy\Library\metadata\f6\f66cbe39da100fa45a4853365fe076fe.info
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Library\metadata\f6\f66cbe39da100fa45a4853365fe076fe.info
-    projectPath: Library\metadata\f6\f66cbe39da100fa45a4853365fe076fe.info
+  - path: The Great Rescue - Copy\Library\metadata\2c\2cea33b1d0032174c8833d64fbf31529
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Library\metadata\2c\2cea33b1d0032174c8833d64fbf31529
+    projectPath: Library\metadata\2c\2cea33b1d0032174c8833d64fbf31529
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: The Great Rescue - Copy\Library\metadata\36\36e8bb3feb5e6402185947b817a6ed8d.info
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Library\metadata\36\36e8bb3feb5e6402185947b817a6ed8d.info
+    projectPath: Library\metadata\36\36e8bb3feb5e6402185947b817a6ed8d.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: The Great Rescue - Copy\Library\metadata\3a\3aba9fe1ad29b42ffb0eea781318a626
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Library\metadata\3a\3aba9fe1ad29b42ffb0eea781318a626
+    projectPath: Library\metadata\3a\3aba9fe1ad29b42ffb0eea781318a626
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: The Great Rescue - Copy\Library\metadata\3a\3abc8faab9f5cbe4db0336c99fef85ca.info
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Library\metadata\3a\3abc8faab9f5cbe4db0336c99fef85ca.info
+    projectPath: Library\metadata\3a\3abc8faab9f5cbe4db0336c99fef85ca.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: The Great Rescue - Copy\Library\metadata\45\453f100e6bdae4dfd9e655927819dc85.info
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Library\metadata\45\453f100e6bdae4dfd9e655927819dc85.info
+    projectPath: Library\metadata\45\453f100e6bdae4dfd9e655927819dc85.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: The Great Rescue - Copy\Library\metadata\46\46c02d8d6499b4309ac1ec5d0b818585
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Library\metadata\46\46c02d8d6499b4309ac1ec5d0b818585
+    projectPath: Library\metadata\46\46c02d8d6499b4309ac1ec5d0b818585
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: The Great Rescue - Copy\Library\metadata\46\46c8e0bde8bfa5a4eadb9b33d3543bcd
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Library\metadata\46\46c8e0bde8bfa5a4eadb9b33d3543bcd
+    projectPath: Library\metadata\46\46c8e0bde8bfa5a4eadb9b33d3543bcd
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: The Great Rescue - Copy\Library\metadata\4c\4c433abcdb28444ebb7bd395ba5c76fc
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Library\metadata\4c\4c433abcdb28444ebb7bd395ba5c76fc
+    projectPath: Library\metadata\4c\4c433abcdb28444ebb7bd395ba5c76fc
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: The Great Rescue - Copy\Library\metadata\4d\4dfd3f5da88944ec6ac5977d676c30c6
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Library\metadata\4d\4dfd3f5da88944ec6ac5977d676c30c6
+    projectPath: Library\metadata\4d\4dfd3f5da88944ec6ac5977d676c30c6
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: The Great Rescue - Copy\Library\metadata\4f\4f768b64e6c37495699fffe3007e4379
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Library\metadata\4f\4f768b64e6c37495699fffe3007e4379
+    projectPath: Library\metadata\4f\4f768b64e6c37495699fffe3007e4379
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: The Great Rescue - Copy\Library\metadata\59\599a5fd92bab81a4ab02e52d0b1b1c60
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Library\metadata\59\599a5fd92bab81a4ab02e52d0b1b1c60
+    projectPath: Library\metadata\59\599a5fd92bab81a4ab02e52d0b1b1c60
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: The Great Rescue - Copy\Library\metadata\5d\5d2935f038257c44998f9aeec57d2ae7
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Library\metadata\5d\5d2935f038257c44998f9aeec57d2ae7
+    projectPath: Library\metadata\5d\5d2935f038257c44998f9aeec57d2ae7
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: The Great Rescue - Copy\Library\metadata\5e\5e57a6c62c1ec47d0bceb70495845164.info
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Library\metadata\5e\5e57a6c62c1ec47d0bceb70495845164.info
+    projectPath: Library\metadata\5e\5e57a6c62c1ec47d0bceb70495845164.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: The Great Rescue - Copy\Library\metadata\65\6597c6ea86d36477081342001145d8d9.info
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Library\metadata\65\6597c6ea86d36477081342001145d8d9.info
+    projectPath: Library\metadata\65\6597c6ea86d36477081342001145d8d9.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: The Great Rescue - Copy\Library\metadata\67\676867f8653a3ec40a598ba3ccea79c6
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Library\metadata\67\676867f8653a3ec40a598ba3ccea79c6
+    projectPath: Library\metadata\67\676867f8653a3ec40a598ba3ccea79c6
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: The Great Rescue - Copy\Library\metadata\6e\6e9568834ba2b2c44af4e3876cee0d2d
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Library\metadata\6e\6e9568834ba2b2c44af4e3876cee0d2d
+    projectPath: Library\metadata\6e\6e9568834ba2b2c44af4e3876cee0d2d
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: The Great Rescue - Copy\Library\metadata\79\7927683d1fc5848b5abfb54ebb1028ec.info
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Library\metadata\79\7927683d1fc5848b5abfb54ebb1028ec.info
+    projectPath: Library\metadata\79\7927683d1fc5848b5abfb54ebb1028ec.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: The Great Rescue - Copy\Library\metadata\7b\7bbb98f319252794fab775275aa2632d
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Library\metadata\7b\7bbb98f319252794fab775275aa2632d
+    projectPath: Library\metadata\7b\7bbb98f319252794fab775275aa2632d
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: The Great Rescue - Copy\Library\metadata\7c\7c5cb5d0bb89666419fa44a3e64ed366
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Library\metadata\7c\7c5cb5d0bb89666419fa44a3e64ed366
+    projectPath: Library\metadata\7c\7c5cb5d0bb89666419fa44a3e64ed366
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: The Great Rescue - Copy\Library\metadata\7d\7d22934bf84ccd14082fd2d5a9f5951e.info
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Library\metadata\7d\7d22934bf84ccd14082fd2d5a9f5951e.info
+    projectPath: Library\metadata\7d\7d22934bf84ccd14082fd2d5a9f5951e.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: The Great Rescue - Copy\Library\metadata\86\86c008322e7c647149878156c5b81940.info
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Library\metadata\86\86c008322e7c647149878156c5b81940.info
+    projectPath: Library\metadata\86\86c008322e7c647149878156c5b81940.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: The Great Rescue - Copy\Library\metadata\86\86c18994495874297b469aaa57ef9b44.info
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Library\metadata\86\86c18994495874297b469aaa57ef9b44.info
+    projectPath: Library\metadata\86\86c18994495874297b469aaa57ef9b44.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: The Great Rescue - Copy\Library\metadata\86\86d0242b70e6ab24aaf5a0e67edf2a61.info
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Library\metadata\86\86d0242b70e6ab24aaf5a0e67edf2a61.info
+    projectPath: Library\metadata\86\86d0242b70e6ab24aaf5a0e67edf2a61.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: The Great Rescue - Copy\Library\metadata\88\880f2fc52037c4fe09edb80cfe84ac7c.info
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Library\metadata\88\880f2fc52037c4fe09edb80cfe84ac7c.info
+    projectPath: Library\metadata\88\880f2fc52037c4fe09edb80cfe84ac7c.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: The Great Rescue - Copy\Library\metadata\8f\8f5aca26e3c262c49be0a859683dafc3
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Library\metadata\8f\8f5aca26e3c262c49be0a859683dafc3
+    projectPath: Library\metadata\8f\8f5aca26e3c262c49be0a859683dafc3
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: The Great Rescue - Copy\Library\metadata\92\92fd05e0a13c5e74f8eca8a4beac1fd7
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Library\metadata\92\92fd05e0a13c5e74f8eca8a4beac1fd7
+    projectPath: Library\metadata\92\92fd05e0a13c5e74f8eca8a4beac1fd7
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: The Great Rescue - Copy\Library\metadata\93\93c1370867fcb45079592da39e0994c5
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Library\metadata\93\93c1370867fcb45079592da39e0994c5
+    projectPath: Library\metadata\93\93c1370867fcb45079592da39e0994c5
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: The Great Rescue - Copy\Library\metadata\97\97dff1b5ae41ee84886ae7a80ae21499
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Library\metadata\97\97dff1b5ae41ee84886ae7a80ae21499
+    projectPath: Library\metadata\97\97dff1b5ae41ee84886ae7a80ae21499
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: The Great Rescue - Copy\Library\metadata\9d\9da568db70dafa345a908282554b3672.info
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Library\metadata\9d\9da568db70dafa345a908282554b3672.info
+    projectPath: Library\metadata\9d\9da568db70dafa345a908282554b3672.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: The Great Rescue - Copy\Library\metadata\9d\9de9e8523c82543c5b3e40a4b51aa2c9.info
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Library\metadata\9d\9de9e8523c82543c5b3e40a4b51aa2c9.info
+    projectPath: Library\metadata\9d\9de9e8523c82543c5b3e40a4b51aa2c9.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: The Great Rescue - Copy\Library\metadata\a6\a6842a74831964edc8fefa1c0aed89dc.info
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Library\metadata\a6\a6842a74831964edc8fefa1c0aed89dc.info
+    projectPath: Library\metadata\a6\a6842a74831964edc8fefa1c0aed89dc.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: The Great Rescue - Copy\Library\metadata\a8\a8d9e44eff3f447db9448925617ccb44
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Library\metadata\a8\a8d9e44eff3f447db9448925617ccb44
+    projectPath: Library\metadata\a8\a8d9e44eff3f447db9448925617ccb44
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: The Great Rescue - Copy\Library\metadata\ac\acacbd024ec26594a9a9eacba50475d1
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Library\metadata\ac\acacbd024ec26594a9a9eacba50475d1
+    projectPath: Library\metadata\ac\acacbd024ec26594a9a9eacba50475d1
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: The Great Rescue - Copy\Library\metadata\ac\acc34040a66fe4170bc8885268860cfe
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Library\metadata\ac\acc34040a66fe4170bc8885268860cfe
+    projectPath: Library\metadata\ac\acc34040a66fe4170bc8885268860cfe
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: The Great Rescue - Copy\Library\metadata\b5\b52e557db2c2b4eebb10444f1d582029.info
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Library\metadata\b5\b52e557db2c2b4eebb10444f1d582029.info
+    projectPath: Library\metadata\b5\b52e557db2c2b4eebb10444f1d582029.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: The Great Rescue - Copy\Library\metadata\bb\bbec1324b05a54939ad2fea2d7e11063
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Library\metadata\bb\bbec1324b05a54939ad2fea2d7e11063
+    projectPath: Library\metadata\bb\bbec1324b05a54939ad2fea2d7e11063
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: The Great Rescue - Copy\Library\metadata\bc\bc00e25696e4132499f56528d3fed2e3.info
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Library\metadata\bc\bc00e25696e4132499f56528d3fed2e3.info
+    projectPath: Library\metadata\bc\bc00e25696e4132499f56528d3fed2e3.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: The Great Rescue - Copy\Library\metadata\c0\c09b1274878484640b9da9916c7d2eae
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Library\metadata\c0\c09b1274878484640b9da9916c7d2eae
+    projectPath: Library\metadata\c0\c09b1274878484640b9da9916c7d2eae
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: The Great Rescue - Copy\Library\metadata\c1\c1808a8a0e94621468b171839da19a41
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Library\metadata\c1\c1808a8a0e94621468b171839da19a41
+    projectPath: Library\metadata\c1\c1808a8a0e94621468b171839da19a41
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: The Great Rescue - Copy\Library\metadata\c5\c5ba7626a737840ff88a3bd84b100482.info
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Library\metadata\c5\c5ba7626a737840ff88a3bd84b100482.info
+    projectPath: Library\metadata\c5\c5ba7626a737840ff88a3bd84b100482.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: The Great Rescue - Copy\Library\metadata\c9\c99bfe4fc4e5c4dc3917c14075acd117.info
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Library\metadata\c9\c99bfe4fc4e5c4dc3917c14075acd117.info
+    projectPath: Library\metadata\c9\c99bfe4fc4e5c4dc3917c14075acd117.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: The Great Rescue - Copy\Library\metadata\cc\cc1b50b5501f748da8bec762294d9136.info
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Library\metadata\cc\cc1b50b5501f748da8bec762294d9136.info
+    projectPath: Library\metadata\cc\cc1b50b5501f748da8bec762294d9136.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: The Great Rescue - Copy\Library\metadata\cc\ccf751df7bd10e14db670d1353e02ea0
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Library\metadata\cc\ccf751df7bd10e14db670d1353e02ea0
+    projectPath: Library\metadata\cc\ccf751df7bd10e14db670d1353e02ea0
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: The Great Rescue - Copy\Library\metadata\cd\cd44c1bc0fa624a39aa784af44c62180
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Library\metadata\cd\cd44c1bc0fa624a39aa784af44c62180
+    projectPath: Library\metadata\cd\cd44c1bc0fa624a39aa784af44c62180
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: The Great Rescue - Copy\Library\metadata\ce\ce4395ccdb12cf62fca756358be1a892.info
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Library\metadata\ce\ce4395ccdb12cf62fca756358be1a892.info
+    projectPath: Library\metadata\ce\ce4395ccdb12cf62fca756358be1a892.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: The Great Rescue - Copy\Library\metadata\ce\ce4ff17ca867d2b48b5c8a4181611901.info
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Library\metadata\ce\ce4ff17ca867d2b48b5c8a4181611901.info
+    projectPath: Library\metadata\ce\ce4ff17ca867d2b48b5c8a4181611901.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: The Great Rescue - Copy\Library\metadata\cf\cfa50efdf91118249b4d5b5862dcb682
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Library\metadata\cf\cfa50efdf91118249b4d5b5862dcb682
+    projectPath: Library\metadata\cf\cfa50efdf91118249b4d5b5862dcb682
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: The Great Rescue - Copy\Library\metadata\cf\cfa50efdf91118249b4d5b5862dcb682.info
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Library\metadata\cf\cfa50efdf91118249b4d5b5862dcb682.info
+    projectPath: Library\metadata\cf\cfa50efdf91118249b4d5b5862dcb682.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: The Great Rescue - Copy\Library\metadata\d1\d195aed64b2027a4197eb33df30324a3
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Library\metadata\d1\d195aed64b2027a4197eb33df30324a3
+    projectPath: Library\metadata\d1\d195aed64b2027a4197eb33df30324a3
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: The Great Rescue - Copy\Library\metadata\d6\d607a67dc772b484da060e66a3d61a4e.info
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Library\metadata\d6\d607a67dc772b484da060e66a3d61a4e.info
+    projectPath: Library\metadata\d6\d607a67dc772b484da060e66a3d61a4e.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: The Great Rescue - Copy\Library\metadata\d6\d62df6d8cd1bb504dbae262bb6d6efe6
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Library\metadata\d6\d62df6d8cd1bb504dbae262bb6d6efe6
+    projectPath: Library\metadata\d6\d62df6d8cd1bb504dbae262bb6d6efe6
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: The Great Rescue - Copy\Library\metadata\e0\e085ef9f44efb404ca5462391539bf32
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Library\metadata\e0\e085ef9f44efb404ca5462391539bf32
+    projectPath: Library\metadata\e0\e085ef9f44efb404ca5462391539bf32
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: The Great Rescue - Copy\Library\metadata\e4\e45f79867376940b7ba31502238d8efa.info
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Library\metadata\e4\e45f79867376940b7ba31502238d8efa.info
+    projectPath: Library\metadata\e4\e45f79867376940b7ba31502238d8efa.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: The Great Rescue - Copy\Library\metadata\f1\f1687bb24464840ae9e1d253685ae0f6.info
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Library\metadata\f1\f1687bb24464840ae9e1d253685ae0f6.info
+    projectPath: Library\metadata\f1\f1687bb24464840ae9e1d253685ae0f6.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: The Great Rescue - Copy\Library\metadata\f8\f8eca3a711f4842eba0c52ea9885ef7f
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Library\metadata\f8\f8eca3a711f4842eba0c52ea9885ef7f
+    projectPath: Library\metadata\f8\f8eca3a711f4842eba0c52ea9885ef7f
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: The Great Rescue - Copy\Library\metadata\fe\fec197bad419341558f81f2ec8a05e18.info
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Library\metadata\fe\fec197bad419341558f81f2ec8a05e18.info
+    projectPath: Library\metadata\fe\fec197bad419341558f81f2ec8a05e18.info
     originalPath: 
     status: 3
     staged: 0
   - path: The Great Rescue - Copy\Library\ScriptAssemblies\Assembly-CSharp.dll
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Library\ScriptAssemblies\Assembly-CSharp.dll
     projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
     originalPath: 
     status: 3
     staged: 0
   - path: The Great Rescue - Copy\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
     projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
     originalPath: 
     status: 3
     staged: 0
   - path: The Great Rescue - Copy\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll.mdb
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll.mdb
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll.mdb
     projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll.mdb
     originalPath: 
     status: 3
     staged: 0
   - path: The Great Rescue - Copy\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll.mdb
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll.mdb
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll.mdb
     projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll.mdb
     originalPath: 
     status: 3
     staged: 0
   - path: The Great Rescue - Copy\Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll.mdb
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll.mdb
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll.mdb
     projectPath: Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll.mdb
     originalPath: 
     status: 3
     staged: 0
   - path: The Great Rescue - Copy\Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll.mdb
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll.mdb
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll.mdb
     projectPath: Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll.mdb
     originalPath: 
     status: 3
     staged: 0
   - path: The Great Rescue - Copy\Library\ScriptAssemblies\Unity.2D.Common.Editor.dll.mdb
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Library\ScriptAssemblies\Unity.2D.Common.Editor.dll.mdb
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Library\ScriptAssemblies\Unity.2D.Common.Editor.dll.mdb
     projectPath: Library\ScriptAssemblies\Unity.2D.Common.Editor.dll.mdb
     originalPath: 
     status: 3
     staged: 0
   - path: The Great Rescue - Copy\Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll.mdb
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll.mdb
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll.mdb
     projectPath: Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll.mdb
     originalPath: 
     status: 3
     staged: 0
   - path: The Great Rescue - Copy\Library\ScriptAssemblies\Unity.2D.IK.Editor.dll.mdb
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Library\ScriptAssemblies\Unity.2D.IK.Editor.dll.mdb
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Library\ScriptAssemblies\Unity.2D.IK.Editor.dll.mdb
     projectPath: Library\ScriptAssemblies\Unity.2D.IK.Editor.dll.mdb
     originalPath: 
     status: 3
     staged: 0
   - path: The Great Rescue - Copy\Library\ScriptAssemblies\Unity.2D.IK.Runtime.dll.mdb
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Library\ScriptAssemblies\Unity.2D.IK.Runtime.dll.mdb
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Library\ScriptAssemblies\Unity.2D.IK.Runtime.dll.mdb
     projectPath: Library\ScriptAssemblies\Unity.2D.IK.Runtime.dll.mdb
     originalPath: 
     status: 3
     staged: 0
   - path: The Great Rescue - Copy\Library\ScriptAssemblies\Unity.2D.Triangle.Runtime.dll.mdb
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Library\ScriptAssemblies\Unity.2D.Triangle.Runtime.dll.mdb
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Library\ScriptAssemblies\Unity.2D.Triangle.Runtime.dll.mdb
     projectPath: Library\ScriptAssemblies\Unity.2D.Triangle.Runtime.dll.mdb
     originalPath: 
     status: 3
     staged: 0
   - path: The Great Rescue - Copy\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll.mdb
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll.mdb
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll.mdb
     projectPath: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll.mdb
     originalPath: 
     status: 3
     staged: 0
   - path: The Great Rescue - Copy\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll.mdb
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll.mdb
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll.mdb
     projectPath: Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll.mdb
     originalPath: 
     status: 3
     staged: 0
   - path: The Great Rescue - Copy\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll.mdb
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll.mdb
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll.mdb
     projectPath: Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll.mdb
     originalPath: 
     status: 3
     staged: 0
   - path: The Great Rescue - Copy\Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll.mdb
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll.mdb
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll.mdb
     projectPath: Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll.mdb
     originalPath: 
     status: 3
     staged: 0
   - path: The Great Rescue - Copy\Library\ScriptAssemblies\Unity.TextMeshPro.dll.mdb
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Library\ScriptAssemblies\Unity.TextMeshPro.dll.mdb
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Library\ScriptAssemblies\Unity.TextMeshPro.dll.mdb
     projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll.mdb
     originalPath: 
     status: 3
     staged: 0
   - path: The Great Rescue - Copy\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll.mdb
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll.mdb
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll.mdb
     projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll.mdb
     originalPath: 
     status: 3
     staged: 0
   - path: The Great Rescue - Copy\Library\shadercompiler-UnityShaderCompiler.exe0.log
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Library\shadercompiler-UnityShaderCompiler.exe0.log
     projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
     originalPath: 
     status: 3
     staged: 0
-  - path: The Great Rescue - Copy\Library\StateCache\Hierarchy\e9d65a-b55b0423651ad9941a.json
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Library\StateCache\Hierarchy\e9d65a-b55b0423651ad9941a.json
-    projectPath: Library\StateCache\Hierarchy\e9d65a-b55b0423651ad9941a.json
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: The Great Rescue - Copy\Library\StateCache\Hierarchy\e9d65a-f66cbe39da100fa45a.json
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Library\StateCache\Hierarchy\e9d65a-f66cbe39da100fa45a.json
-    projectPath: Library\StateCache\Hierarchy\e9d65a-f66cbe39da100fa45a.json
-    originalPath: 
-    status: 3
-    staged: 0
   - path: The Great Rescue - Copy\Library\StateCache\Hierarchy\e9d65a-mainStage.json
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Library\StateCache\Hierarchy\e9d65a-mainStage.json
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Library\StateCache\Hierarchy\e9d65a-mainStage.json
     projectPath: Library\StateCache\Hierarchy\e9d65a-mainStage.json
     originalPath: 
     status: 3
     staged: 0
-  - path: The Great Rescue - Copy\Library\StateCache\SceneView\041cbd-b55b0423651ad9941a.json
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Library\StateCache\SceneView\041cbd-b55b0423651ad9941a.json
-    projectPath: Library\StateCache\SceneView\041cbd-b55b0423651ad9941a.json
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: The Great Rescue - Copy\Library\StateCache\SceneView\041cbd-f66cbe39da100fa45a.json
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Library\StateCache\SceneView\041cbd-f66cbe39da100fa45a.json
-    projectPath: Library\StateCache\SceneView\041cbd-f66cbe39da100fa45a.json
-    originalPath: 
-    status: 3
-    staged: 0
   - path: The Great Rescue - Copy\Library\StateCache\SceneView\041cbd-mainStage.json
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Library\StateCache\SceneView\041cbd-mainStage.json
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\Library\StateCache\SceneView\041cbd-mainStage.json
     projectPath: Library\StateCache\SceneView\041cbd-mainStage.json
     originalPath: 
     status: 3
     staged: 0
   - path: The Great Rescue - Copy\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
     projectPath: obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
     originalPath: 
     status: 3
     staged: 0
+  - path: The Great Rescue - Copy\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: The Great Rescue - Copy\obj\Debug\Assembly-CSharp-Editor.csproj.CoreCompileInputs.cache
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\obj\Debug\Assembly-CSharp-Editor.csproj.CoreCompileInputs.cache
+    projectPath: obj\Debug\Assembly-CSharp-Editor.csproj.CoreCompileInputs.cache
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: The Great Rescue - Copy\obj\Debug\Assembly-CSharp-Editor.csprojAssemblyReference.cache
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\obj\Debug\Assembly-CSharp-Editor.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Assembly-CSharp-Editor.csprojAssemblyReference.cache
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: The Great Rescue - Copy\obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
+    projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: The Great Rescue - Copy\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: The Great Rescue - Copy\ProjectSettings\QualitySettings.asset
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\ProjectSettings\QualitySettings.asset
+    projectPath: ProjectSettings\QualitySettings.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: The Great Rescue - Copy\ProjectSettings\TagManager.asset
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\ProjectSettings\TagManager.asset
+    projectPath: ProjectSettings\TagManager.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: The Great Rescue - Copy\ProjectSettings\UnityConnectSettings.asset
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\ProjectSettings\UnityConnectSettings.asset
+    projectPath: ProjectSettings\UnityConnectSettings.asset
+    originalPath: 
+    status: 3
+    staged: 0
   - path: The Great Rescue - Copy\The Great Rescue - Copy.sln
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\The Great Rescue - Copy.sln
+    fullPath: C:\Users\emild\Documents\GitHub\GreatRescue2Revengeance\The Great Rescue
+      - Copy\The Great Rescue - Copy.sln
     projectPath: The Great Rescue - Copy.sln
     originalPath: 
     status: 3
