@@ -12,7 +12,7 @@ public class LaserBox : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-       
+        m_MyAudioSource = GetComponent<AudioSource>();
         timeactual = time;
     }
 
@@ -24,15 +24,45 @@ public class LaserBox : MonoBehaviour
        
         if (timeactual <= 2.0f)
         {
+            
             SendMessageUpwards("chargingup");
             gameObject.transform.GetChild(0).gameObject.SetActive(true);
            
         }
-        
-      
+        if (timeactual <= 1.8f)
+        {
+            
+            gameObject.transform.GetChild(1).gameObject.SetActive(true);
+            
+
+        }
+        if (timeactual <= 1.3f)
+        {
+
+            gameObject.transform.GetChild(2).gameObject.SetActive(true);
+            gameObject.transform.GetChild(1).gameObject.SetActive(false);
+
+        }
+        if (timeactual <= 0.8f)
+        {
+
+            gameObject.transform.GetChild(3).gameObject.SetActive(true);
+            gameObject.transform.GetChild(2).gameObject.SetActive(false);
+
+        }
+        if (timeactual <= 0.4f)
+        {
+
+            gameObject.transform.GetChild(4).gameObject.SetActive(true);
+            gameObject.transform.GetChild(3).gameObject.SetActive(false);
+
+        }
+
+
         if (timeactual <= 0.0f)
         {
             SendMessageUpwards("shootingup");
+            gameObject.transform.GetChild(4).gameObject.SetActive(false);
             gameObject.transform.GetChild(0).gameObject.SetActive(false);
             var hurtboxob = (GameObject)Instantiate(hurtbox);
             hurtboxob.transform.position = gameObject.transform.position;

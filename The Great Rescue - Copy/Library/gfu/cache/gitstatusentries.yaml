@@ -13,15 +13,71 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2019-03-26T18:09:09.308+01:00
-  initializedAtString: 2019-03-26T17:56:49.147+01:00
+  lastUpdatedAtString: 2019-03-26T19:51:22.967+01:00
+  initializedAtString: 2019-03-26T19:34:31.106+01:00
   entries:
-  - path: The Great Rescue - Copy\Assets\Prefabs\Enemies\Ogre.prefab
+  - path: The Great Rescue - Copy\Assembly-CSharp.csproj
     fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Assets\Prefabs\Enemies\Ogre.prefab
-    projectPath: Assets\Prefabs\Enemies\Ogre.prefab
+      Great Rescue - Copy\Assembly-CSharp.csproj
+    projectPath: Assembly-CSharp.csproj
     originalPath: 
     status: 3
+    staged: 0
+  - path: The Great Rescue - Copy\Assembly-CSharp-Editor.csproj
+    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
+      Great Rescue - Copy\Assembly-CSharp-Editor.csproj
+    projectPath: Assembly-CSharp-Editor.csproj
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: The Great Rescue - Copy\Assembly-CSharp-Editor-firstpass.csproj
+    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
+      Great Rescue - Copy\Assembly-CSharp-Editor-firstpass.csproj
+    projectPath: Assembly-CSharp-Editor-firstpass.csproj
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: The Great Rescue - Copy\Assets\chargeffs.cs
+    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
+      Great Rescue - Copy\Assets\chargeffs.cs
+    projectPath: Assets\chargeffs.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: The Great Rescue - Copy\Assets\chargeffs.cs.meta
+    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
+      Great Rescue - Copy\Assets\chargeffs.cs.meta
+    projectPath: Assets\chargeffs.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: The Great Rescue - Copy\Assets\Prefabs\Enemies\Chargeup.anim
+    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
+      Great Rescue - Copy\Assets\Prefabs\Enemies\Chargeup.anim
+    projectPath: Assets\Prefabs\Enemies\Chargeup.anim
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: The Great Rescue - Copy\Assets\Prefabs\Enemies\Chargeup.anim.meta
+    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
+      Great Rescue - Copy\Assets\Prefabs\Enemies\Chargeup.anim.meta
+    projectPath: Assets\Prefabs\Enemies\Chargeup.anim.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: The Great Rescue - Copy\Assets\Prefabs\Enemies\Laserbox.prefab
+    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
+      Great Rescue - Copy\Assets\Prefabs\Enemies\Laserbox.prefab
+    projectPath: Assets\Prefabs\Enemies\Laserbox.prefab
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: The Great Rescue - Copy\Assets\Prefabs\Enemies\Laserbox.prefab.meta
+    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
+      Great Rescue - Copy\Assets\Prefabs\Enemies\Laserbox.prefab.meta
+    projectPath: Assets\Prefabs\Enemies\Laserbox.prefab.meta
+    originalPath: 
+    status: 1
     staged: 0
   - path: The Great Rescue - Copy\Assets\Prefabs\Enemies\Troll.prefab
     fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
@@ -30,19 +86,145 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
+  - path: The Great Rescue - Copy\Assets\Prefabs\Laserbox.prefab
+    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
+      Great Rescue - Copy\Assets\Prefabs\Laserbox.prefab
+    projectPath: Assets\Prefabs\Laserbox.prefab
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: The Great Rescue - Copy\Assets\Prefabs\Laserbox.prefab.meta
+    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
+      Great Rescue - Copy\Assets\Prefabs\Laserbox.prefab.meta
+    projectPath: Assets\Prefabs\Laserbox.prefab.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: The Great Rescue - Copy\Assets\Scenes\3. MainScene.unity
+    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
+      Great Rescue - Copy\Assets\Scenes\3. MainScene.unity
+    projectPath: Assets\Scenes\3. MainScene.unity
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: The Great Rescue - Copy\Assets\Scripts\Enemy\LaserBox.cs
+    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
+      Great Rescue - Copy\Assets\Scripts\Enemy\LaserBox.cs
+    projectPath: Assets\Scripts\Enemy\LaserBox.cs
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: The Great Rescue - Copy\Assets\Sprites\Animation\Laser Anim.anim
+    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
+      Great Rescue - Copy\Assets\Sprites\Animation\Laser Anim.anim
+    projectPath: Assets\Sprites\Animation\Laser Anim.anim
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: The Great Rescue - Copy\Assets\Sprites\Charge.meta
+    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
+      Great Rescue - Copy\Assets\Sprites\Charge.meta
+    projectPath: Assets\Sprites\Charge.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: The Great Rescue - Copy\Assets\Sprites\Charge\Laser-charge-orb_Frame_1.png
+    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
+      Great Rescue - Copy\Assets\Sprites\Charge\Laser-charge-orb_Frame_1.png
+    projectPath: Assets\Sprites\Charge\Laser-charge-orb_Frame_1.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: The Great Rescue - Copy\Assets\Sprites\Charge\Laser-charge-orb_Frame_1.png.meta
+    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
+      Great Rescue - Copy\Assets\Sprites\Charge\Laser-charge-orb_Frame_1.png.meta
+    projectPath: Assets\Sprites\Charge\Laser-charge-orb_Frame_1.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: The Great Rescue - Copy\Assets\Sprites\Charge\Laser-charge-orb_frame_2.png
+    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
+      Great Rescue - Copy\Assets\Sprites\Charge\Laser-charge-orb_frame_2.png
+    projectPath: Assets\Sprites\Charge\Laser-charge-orb_frame_2.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: The Great Rescue - Copy\Assets\Sprites\Charge\Laser-charge-orb_frame_2.png.meta
+    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
+      Great Rescue - Copy\Assets\Sprites\Charge\Laser-charge-orb_frame_2.png.meta
+    projectPath: Assets\Sprites\Charge\Laser-charge-orb_frame_2.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: The Great Rescue - Copy\Assets\Sprites\Charge\Laser-charge-orb_frame_3.png
+    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
+      Great Rescue - Copy\Assets\Sprites\Charge\Laser-charge-orb_frame_3.png
+    projectPath: Assets\Sprites\Charge\Laser-charge-orb_frame_3.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: The Great Rescue - Copy\Assets\Sprites\Charge\Laser-charge-orb_frame_3.png.meta
+    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
+      Great Rescue - Copy\Assets\Sprites\Charge\Laser-charge-orb_frame_3.png.meta
+    projectPath: Assets\Sprites\Charge\Laser-charge-orb_frame_3.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: The Great Rescue - Copy\Assets\Sprites\Charge\Laser-charge-orb_frame_4.png
+    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
+      Great Rescue - Copy\Assets\Sprites\Charge\Laser-charge-orb_frame_4.png
+    projectPath: Assets\Sprites\Charge\Laser-charge-orb_frame_4.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: The Great Rescue - Copy\Assets\Sprites\Charge\Laser-charge-orb_frame_4.png.meta
+    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
+      Great Rescue - Copy\Assets\Sprites\Charge\Laser-charge-orb_frame_4.png.meta
+    projectPath: Assets\Sprites\Charge\Laser-charge-orb_frame_4.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: The Great Rescue - Copy\Assets\Sprites\Charge\Laser-charge-orb_frame_5.png
+    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
+      Great Rescue - Copy\Assets\Sprites\Charge\Laser-charge-orb_frame_5.png
+    projectPath: Assets\Sprites\Charge\Laser-charge-orb_frame_5.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: The Great Rescue - Copy\Assets\Sprites\Charge\Laser-charge-orb_frame_5.png.meta
+    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
+      Great Rescue - Copy\Assets\Sprites\Charge\Laser-charge-orb_frame_5.png.meta
+    projectPath: Assets\Sprites\Charge\Laser-charge-orb_frame_5.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: The Great Rescue - Copy\Assets\Sprites\Laser-charge-orb_Sprite_sheet 1.png
+    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
+      Great Rescue - Copy\Assets\Sprites\Laser-charge-orb_Sprite_sheet 1.png
+    projectPath: Assets\Sprites\Laser-charge-orb_Sprite_sheet 1.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: The Great Rescue - Copy\Assets\Sprites\Laser-charge-orb_Sprite_sheet 1.png.meta
+    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
+      Great Rescue - Copy\Assets\Sprites\Laser-charge-orb_Sprite_sheet 1.png.meta
+    projectPath: Assets\Sprites\Laser-charge-orb_Sprite_sheet 1.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
   - path: The Great Rescue - Copy\Assets\Sprites\Laser-charge-orb_Sprite_sheet.png
     fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
       Great Rescue - Copy\Assets\Sprites\Laser-charge-orb_Sprite_sheet.png
     projectPath: Assets\Sprites\Laser-charge-orb_Sprite_sheet.png
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: The Great Rescue - Copy\Assets\Sprites\Laser-charge-orb_Sprite_sheet.png.meta
     fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
       Great Rescue - Copy\Assets\Sprites\Laser-charge-orb_Sprite_sheet.png.meta
     projectPath: Assets\Sprites\Laser-charge-orb_Sprite_sheet.png.meta
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: The Great Rescue - Copy\Library\assetDatabase3
     fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
@@ -51,10 +233,24 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
+  - path: The Great Rescue - Copy\Library\CurrentLayout.dwlt
+    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
+      Great Rescue - Copy\Library\CurrentLayout.dwlt
+    projectPath: Library\CurrentLayout.dwlt
+    originalPath: 
+    status: 3
+    staged: 0
   - path: The Great Rescue - Copy\Library\CurrentMaximizeLayout.dwlt
     fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
       Great Rescue - Copy\Library\CurrentMaximizeLayout.dwlt
     projectPath: Library\CurrentMaximizeLayout.dwlt
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: The Great Rescue - Copy\Library\gfu\cache\branches.yaml
+    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
+      Great Rescue - Copy\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
     originalPath: 
     status: 3
     staged: 0
@@ -79,6 +275,34 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
+  - path: The Great Rescue - Copy\Library\InspectorExpandedItems.asset
+    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
+      Great Rescue - Copy\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: The Great Rescue - Copy\Library\metadata\8a\8ae6c7c74e1bcd84bb3a455c0e5a7333
+    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
+      Great Rescue - Copy\Library\metadata\8a\8ae6c7c74e1bcd84bb3a455c0e5a7333
+    projectPath: Library\metadata\8a\8ae6c7c74e1bcd84bb3a455c0e5a7333
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: The Great Rescue - Copy\Library\metadata\b5\b55b0423651ad9941ad61553fc6474e1
+    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
+      Great Rescue - Copy\Library\metadata\b5\b55b0423651ad9941ad61553fc6474e1
+    projectPath: Library\metadata\b5\b55b0423651ad9941ad61553fc6474e1
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: The Great Rescue - Copy\Library\metadata\b5\b55b0423651ad9941ad61553fc6474e1.info
+    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
+      Great Rescue - Copy\Library\metadata\b5\b55b0423651ad9941ad61553fc6474e1.info
+    projectPath: Library\metadata\b5\b55b0423651ad9941ad61553fc6474e1.info
+    originalPath: 
+    status: 3
+    staged: 0
   - path: The Great Rescue - Copy\Library\metadata\f6\f66cbe39da100fa45a4853365fe076fe
     fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
       Great Rescue - Copy\Library\metadata\f6\f66cbe39da100fa45a4853365fe076fe
@@ -86,10 +310,143 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
+  - path: The Great Rescue - Copy\Library\metadata\f6\f66cbe39da100fa45a4853365fe076fe.info
+    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
+      Great Rescue - Copy\Library\metadata\f6\f66cbe39da100fa45a4853365fe076fe.info
+    projectPath: Library\metadata\f6\f66cbe39da100fa45a4853365fe076fe.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: The Great Rescue - Copy\Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
+      Great Rescue - Copy\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: The Great Rescue - Copy\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
+      Great Rescue - Copy\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: The Great Rescue - Copy\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll.mdb
+    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
+      Great Rescue - Copy\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll.mdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll.mdb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: The Great Rescue - Copy\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll.mdb
+    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
+      Great Rescue - Copy\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll.mdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll.mdb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: The Great Rescue - Copy\Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll.mdb
+    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
+      Great Rescue - Copy\Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll.mdb
+    projectPath: Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll.mdb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: The Great Rescue - Copy\Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll.mdb
+    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
+      Great Rescue - Copy\Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll.mdb
+    projectPath: Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll.mdb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: The Great Rescue - Copy\Library\ScriptAssemblies\Unity.2D.Common.Editor.dll.mdb
+    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
+      Great Rescue - Copy\Library\ScriptAssemblies\Unity.2D.Common.Editor.dll.mdb
+    projectPath: Library\ScriptAssemblies\Unity.2D.Common.Editor.dll.mdb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: The Great Rescue - Copy\Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll.mdb
+    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
+      Great Rescue - Copy\Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll.mdb
+    projectPath: Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll.mdb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: The Great Rescue - Copy\Library\ScriptAssemblies\Unity.2D.IK.Editor.dll.mdb
+    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
+      Great Rescue - Copy\Library\ScriptAssemblies\Unity.2D.IK.Editor.dll.mdb
+    projectPath: Library\ScriptAssemblies\Unity.2D.IK.Editor.dll.mdb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: The Great Rescue - Copy\Library\ScriptAssemblies\Unity.2D.IK.Runtime.dll.mdb
+    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
+      Great Rescue - Copy\Library\ScriptAssemblies\Unity.2D.IK.Runtime.dll.mdb
+    projectPath: Library\ScriptAssemblies\Unity.2D.IK.Runtime.dll.mdb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: The Great Rescue - Copy\Library\ScriptAssemblies\Unity.2D.Triangle.Runtime.dll.mdb
+    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
+      Great Rescue - Copy\Library\ScriptAssemblies\Unity.2D.Triangle.Runtime.dll.mdb
+    projectPath: Library\ScriptAssemblies\Unity.2D.Triangle.Runtime.dll.mdb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: The Great Rescue - Copy\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll.mdb
+    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
+      Great Rescue - Copy\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll.mdb
+    projectPath: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll.mdb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: The Great Rescue - Copy\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll.mdb
+    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
+      Great Rescue - Copy\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll.mdb
+    projectPath: Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll.mdb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: The Great Rescue - Copy\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll.mdb
+    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
+      Great Rescue - Copy\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll.mdb
+    projectPath: Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll.mdb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: The Great Rescue - Copy\Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll.mdb
+    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
+      Great Rescue - Copy\Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll.mdb
+    projectPath: Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll.mdb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: The Great Rescue - Copy\Library\ScriptAssemblies\Unity.TextMeshPro.dll.mdb
+    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
+      Great Rescue - Copy\Library\ScriptAssemblies\Unity.TextMeshPro.dll.mdb
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll.mdb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: The Great Rescue - Copy\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll.mdb
+    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
+      Great Rescue - Copy\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll.mdb
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll.mdb
+    originalPath: 
+    status: 3
+    staged: 0
   - path: The Great Rescue - Copy\Library\shadercompiler-UnityShaderCompiler.exe0.log
     fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
       Great Rescue - Copy\Library\shadercompiler-UnityShaderCompiler.exe0.log
     projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: The Great Rescue - Copy\Library\StateCache\Hierarchy\e9d65a-b55b0423651ad9941a.json
+    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
+      Great Rescue - Copy\Library\StateCache\Hierarchy\e9d65a-b55b0423651ad9941a.json
+    projectPath: Library\StateCache\Hierarchy\e9d65a-b55b0423651ad9941a.json
     originalPath: 
     status: 3
     staged: 0
@@ -107,10 +464,10 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: The Great Rescue - Copy\Library\StateCache\SceneView\041cbd-848911d8b8a1ed1428.json
+  - path: The Great Rescue - Copy\Library\StateCache\SceneView\041cbd-b55b0423651ad9941a.json
     fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Library\StateCache\SceneView\041cbd-848911d8b8a1ed1428.json
-    projectPath: Library\StateCache\SceneView\041cbd-848911d8b8a1ed1428.json
+      Great Rescue - Copy\Library\StateCache\SceneView\041cbd-b55b0423651ad9941a.json
+    projectPath: Library\StateCache\SceneView\041cbd-b55b0423651ad9941a.json
     originalPath: 
     status: 3
     staged: 0
@@ -132,6 +489,13 @@ MonoBehaviour:
     fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
       Great Rescue - Copy\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
     projectPath: obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: The Great Rescue - Copy\The Great Rescue - Copy.sln
+    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
+      Great Rescue - Copy\The Great Rescue - Copy.sln
+    projectPath: The Great Rescue - Copy.sln
     originalPath: 
     status: 3
     staged: 0
