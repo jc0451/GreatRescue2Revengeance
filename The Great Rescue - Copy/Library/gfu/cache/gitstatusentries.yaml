@@ -13,29 +13,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2019-03-27T02:28:56.859+01:00
+  lastUpdatedAtString: 2019-03-27T02:34:50.161+01:00
   initializedAtString: 2019-03-27T02:17:39.761+01:00
   entries:
-  - path: .gitignore
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\.gitignore
-    projectPath: ..\.gitignore
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: The Great Rescue - Copy\Library\gfu\cache\branches.yaml
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Library\gfu\cache\branches.yaml
-    projectPath: Library\gfu\cache\branches.yaml
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: The Great Rescue - Copy\Library\gfu\cache\gitlog.yaml
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Library\gfu\cache\gitlog.yaml
-    projectPath: Library\gfu\cache\gitlog.yaml
-    originalPath: 
-    status: 3
-    staged: 0
   - path: The Great Rescue - Copy\Library\gfu\cache\gitstatusentries.yaml
     fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
       Great Rescue - Copy\Library\gfu\cache\gitstatusentries.yaml
