@@ -13,20 +13,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2019-03-27T02:20:00.094+01:00
+  lastUpdatedAtString: 2019-03-27T02:20:15.093+01:00
   initializedAtString: 2019-03-27T02:17:39.761+01:00
   entries:
-  - path: The Great Rescue - Copy\Library\assetDatabase3
+  - path: The Great Rescue - Copy\Library\gfu\cache\branches.yaml
     fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Library\assetDatabase3
-    projectPath: Library\assetDatabase3
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: The Great Rescue - Copy\Library\CurrentMaximizeLayout.dwlt
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Library\CurrentMaximizeLayout.dwlt
-    projectPath: Library\CurrentMaximizeLayout.dwlt
+      Great Rescue - Copy\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
     originalPath: 
     status: 3
     staged: 0
@@ -41,34 +34,6 @@ MonoBehaviour:
     fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
       Great Rescue - Copy\Library\gfu\cache\gittrackingstatus.yaml
     projectPath: Library\gfu\cache\gittrackingstatus.yaml
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: The Great Rescue - Copy\Library\gfu\cache\repoinfo.yaml
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Library\gfu\cache\repoinfo.yaml
-    projectPath: Library\gfu\cache\repoinfo.yaml
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: The Great Rescue - Copy\Library\StateCache\Hierarchy\e9d65a-mainStage.json
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Library\StateCache\Hierarchy\e9d65a-mainStage.json
-    projectPath: Library\StateCache\Hierarchy\e9d65a-mainStage.json
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: The Great Rescue - Copy\obj\Debug\Assembly-CSharp-Editor.csprojAssemblyReference.cache
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\obj\Debug\Assembly-CSharp-Editor.csprojAssemblyReference.cache
-    projectPath: obj\Debug\Assembly-CSharp-Editor.csprojAssemblyReference.cache
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: The Great Rescue - Copy\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
-    projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
     originalPath: 
     status: 3
     staged: 0
