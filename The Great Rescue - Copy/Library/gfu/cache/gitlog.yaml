@@ -13,9 +13,42 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2019-03-27T02:20:19.879+01:00
+  lastUpdatedAtString: 2019-03-27T02:23:10.210+01:00
   initializedAtString: 2019-03-27T02:20:02.860+01:00
   log:
+  - commitID: 2862227152ebd3e8ac03c08f045f16f77540add1
+    mergeA: 
+    mergeB: 
+    authorName: Alex Bugnar
+    authorEmail: alexbugnar@users.noreply.github.com
+    commitEmail: alexbugnar@users.noreply.github.com
+    commitName: Alex Bugnar
+    summary: 3
+    description: 3
+    timeString: 2019-03-27T02:20:22.000+01:00
+    commitTimeString: 2019-03-27T02:20:22.000+01:00
+    changes:
+    - path: The Great Rescue - Copy\Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
+        Great Rescue - Copy\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: The Great Rescue - Copy\Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
+        Great Rescue - Copy\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: The Great Rescue - Copy\Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
+        Great Rescue - Copy\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
   - commitID: cba863aac2578ffd488e7c7f0b0bfd6c7d39f126
     mergeA: 
     mergeB: 

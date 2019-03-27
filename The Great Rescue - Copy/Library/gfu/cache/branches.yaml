@@ -13,14 +13,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2019-03-27T02:20:17.866+01:00
+  lastUpdatedAtString: 2019-03-27T02:23:07.143+01:00
   initializedAtString: 2019-03-27T02:20:13.001+01:00
   localBranches:
   - name: 2
-    tracking: 
+    tracking: origin/2
   - name: master
     tracking: origin/master
   remoteBranches:
+  - name: origin/2
+    tracking: '[None]'
   - name: origin/Emil-branch
     tracking: '[None]'
   - name: origin/Hampus-Branch
@@ -42,9 +44,9 @@ MonoBehaviour:
     values:
     - name: 2
       remote:
-        name: 
-        url: 
-      trackingBranch: 
+        name: origin
+        url: https://github.com/jc0451/GreatRescue2Revengeance.git
+      trackingBranch: 2
     - name: master
       remote:
         name: origin
@@ -55,11 +57,17 @@ MonoBehaviour:
     - origin
     subKeys:
     - Values:
+      - 2
       - Emil-branch
       - Hampus-Branch
       - master
     subKeyValues:
     - Values:
+      - name: 2
+        remote:
+          name: origin
+          url: https://github.com/jc0451/GreatRescue2Revengeance.git
+        trackingBranch: 
       - name: Emil-branch
         remote:
           name: origin
