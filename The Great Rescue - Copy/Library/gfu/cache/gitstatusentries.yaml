@@ -13,107 +13,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2019-03-26T21:22:42.862+01:00
-  initializedAtString: 2019-03-26T20:45:46.264+01:00
+  lastUpdatedAtString: 2019-03-27T02:20:00.094+01:00
+  initializedAtString: 2019-03-27T02:17:39.761+01:00
   entries:
-  - path: The Great Rescue - Copy\Assembly-CSharp.csproj
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Assembly-CSharp.csproj
-    projectPath: Assembly-CSharp.csproj
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: The Great Rescue - Copy\Assets\HeartScript.cs
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Assets\HeartScript.cs
-    projectPath: Assets\HeartScript.cs
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: The Great Rescue - Copy\Assets\Scenes\3. MainScene.unity
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Assets\Scenes\3. MainScene.unity
-    projectPath: Assets\Scenes\3. MainScene.unity
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: The Great Rescue - Copy\Assets\Sprites\Portrait.meta
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Assets\Sprites\Portrait.meta
-    projectPath: Assets\Sprites\Portrait.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: The Great Rescue - Copy\Assets\Sprites\Portrait\1_health_UI.png
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Assets\Sprites\Portrait\1_health_UI.png
-    projectPath: Assets\Sprites\Portrait\1_health_UI.png
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: The Great Rescue - Copy\Assets\Sprites\Portrait\1_health_UI.png.meta
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Assets\Sprites\Portrait\1_health_UI.png.meta
-    projectPath: Assets\Sprites\Portrait\1_health_UI.png.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: The Great Rescue - Copy\Assets\Sprites\Portrait\2_health_UI.png
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Assets\Sprites\Portrait\2_health_UI.png
-    projectPath: Assets\Sprites\Portrait\2_health_UI.png
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: The Great Rescue - Copy\Assets\Sprites\Portrait\2_health_UI.png.meta
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Assets\Sprites\Portrait\2_health_UI.png.meta
-    projectPath: Assets\Sprites\Portrait\2_health_UI.png.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: The Great Rescue - Copy\Assets\Sprites\Portrait\3_health_UI.png
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Assets\Sprites\Portrait\3_health_UI.png
-    projectPath: Assets\Sprites\Portrait\3_health_UI.png
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: The Great Rescue - Copy\Assets\Sprites\Portrait\3_health_UI.png.meta
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Assets\Sprites\Portrait\3_health_UI.png.meta
-    projectPath: Assets\Sprites\Portrait\3_health_UI.png.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: The Great Rescue - Copy\Assets\Sprites\Portrait\4_health_UI.png
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Assets\Sprites\Portrait\4_health_UI.png
-    projectPath: Assets\Sprites\Portrait\4_health_UI.png
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: The Great Rescue - Copy\Assets\Sprites\Portrait\4_health_UI.png.meta
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Assets\Sprites\Portrait\4_health_UI.png.meta
-    projectPath: Assets\Sprites\Portrait\4_health_UI.png.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: The Great Rescue - Copy\Assets\Sprites\Portrait\5_health_UI.png
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Assets\Sprites\Portrait\5_health_UI.png
-    projectPath: Assets\Sprites\Portrait\5_health_UI.png
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: The Great Rescue - Copy\Assets\Sprites\Portrait\5_health_UI.png.meta
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Assets\Sprites\Portrait\5_health_UI.png.meta
-    projectPath: Assets\Sprites\Portrait\5_health_UI.png.meta
-    originalPath: 
-    status: 1
-    staged: 0
   - path: The Great Rescue - Copy\Library\assetDatabase3
     fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
       Great Rescue - Copy\Library\assetDatabase3
@@ -125,20 +27,6 @@ MonoBehaviour:
     fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
       Great Rescue - Copy\Library\CurrentMaximizeLayout.dwlt
     projectPath: Library\CurrentMaximizeLayout.dwlt
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: The Great Rescue - Copy\Library\gfu\cache\branches.yaml
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Library\gfu\cache\branches.yaml
-    projectPath: Library\gfu\cache\branches.yaml
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: The Great Rescue - Copy\Library\gfu\cache\gitlog.yaml
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Library\gfu\cache\gitlog.yaml
-    projectPath: Library\gfu\cache\gitlog.yaml
     originalPath: 
     status: 3
     staged: 0
@@ -163,34 +51,6 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: The Great Rescue - Copy\Library\metadata\84\84d9b303972e12f48ac6e56611cf87d9
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Library\metadata\84\84d9b303972e12f48ac6e56611cf87d9
-    projectPath: Library\metadata\84\84d9b303972e12f48ac6e56611cf87d9
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: The Great Rescue - Copy\Library\ScriptAssemblies\Assembly-CSharp.dll
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Library\ScriptAssemblies\Assembly-CSharp.dll
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: The Great Rescue - Copy\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: The Great Rescue - Copy\Library\shadercompiler-UnityShaderCompiler.exe0.log
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Library\shadercompiler-UnityShaderCompiler.exe0.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
-    originalPath: 
-    status: 3
-    staged: 0
   - path: The Great Rescue - Copy\Library\StateCache\Hierarchy\e9d65a-mainStage.json
     fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
       Great Rescue - Copy\Library\StateCache\Hierarchy\e9d65a-mainStage.json
@@ -198,24 +58,17 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: The Great Rescue - Copy\Library\StateCache\SceneView\041cbd-mainStage.json
+  - path: The Great Rescue - Copy\obj\Debug\Assembly-CSharp-Editor.csprojAssemblyReference.cache
     fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\Library\StateCache\SceneView\041cbd-mainStage.json
-    projectPath: Library\StateCache\SceneView\041cbd-mainStage.json
+      Great Rescue - Copy\obj\Debug\Assembly-CSharp-Editor.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Assembly-CSharp-Editor.csprojAssemblyReference.cache
     originalPath: 
     status: 3
     staged: 0
-  - path: The Great Rescue - Copy\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+  - path: The Great Rescue - Copy\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
     fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
-    projectPath: obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: The Great Rescue - Copy\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
-    fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
-      Great Rescue - Copy\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
-    projectPath: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+      Great Rescue - Copy\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
     originalPath: 
     status: 3
     staged: 0
