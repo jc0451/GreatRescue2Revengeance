@@ -13,9 +13,55 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2019-03-27T02:27:28.882+01:00
+  lastUpdatedAtString: 2019-03-27T02:27:59.278+01:00
   initializedAtString: 2019-03-27T02:20:02.860+01:00
   log:
+  - commitID: bb3009973bfd758822246301f871aad6e85c438f
+    mergeA: 
+    mergeB: 
+    authorName: Alex Bugnar
+    authorEmail: alexbugnar@users.noreply.github.com
+    commitEmail: alexbugnar@users.noreply.github.com
+    commitName: Alex Bugnar
+    summary: 2
+    description: 2
+    timeString: 2019-03-27T02:27:56.000+01:00
+    commitTimeString: 2019-03-27T02:27:56.000+01:00
+    changes:
+    - path: .gitignore
+      fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\.gitignore
+      projectPath: ..\.gitignore
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: The Great Rescue - Copy\Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
+        Great Rescue - Copy\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: The Great Rescue - Copy\Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
+        Great Rescue - Copy\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: The Great Rescue - Copy\Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
+        Great Rescue - Copy\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: The Great Rescue - Copy\Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\Alex Bugnar\Documents\New folder\GreatRescue2Revengeance\The
+        Great Rescue - Copy\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
   - commitID: 5b9c6d6e6c021b8283680a438774ca458347f7c9
     mergeA: 
     mergeB: 
