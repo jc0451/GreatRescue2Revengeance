@@ -11,6 +11,12 @@ public class HeartScript : MonoBehaviour
     public Renderer Rend3;
     public Renderer Rend2;
     public Renderer Rend1;
+    public Renderer PRend5;
+    public Renderer PRend4;
+    public Renderer PRend3;
+    public Renderer PRend2;
+    public Renderer PRend1;
+
 
 
     // Update is called once per frame
@@ -26,6 +32,13 @@ public class HeartScript : MonoBehaviour
             Rend2.enabled = true;
             Rend1.enabled = true;
 
+            PRend5.enabled = true;
+            PRend4.enabled = false;
+            PRend3.enabled = false;
+            PRend2.enabled = false;
+            PRend1.enabled = false;
+
+
         }
         if (health == 4)
         {
@@ -34,6 +47,12 @@ public class HeartScript : MonoBehaviour
             Rend3.enabled = true;
             Rend2.enabled = true;
             Rend1.enabled = true;
+
+            PRend5.enabled = false;
+            PRend4.enabled = true;
+            PRend3.enabled = false;
+            PRend2.enabled = false;
+            PRend1.enabled = false;
         }
         
 
@@ -44,6 +63,12 @@ public class HeartScript : MonoBehaviour
             Rend3.enabled = true;
             Rend2.enabled = true;
             Rend1.enabled = true;
+
+            PRend5.enabled = false;
+            PRend4.enabled = false;
+            PRend3.enabled = true;
+            PRend2.enabled = false;
+            PRend1.enabled = false;
         }
         if (health == 2)
         {
@@ -52,6 +77,12 @@ public class HeartScript : MonoBehaviour
             Rend3.enabled = false;
             Rend2.enabled = true;
             Rend1.enabled = true;
+
+            PRend5.enabled = false;
+            PRend4.enabled = false;
+            PRend3.enabled = false;
+            PRend2.enabled = true;
+            PRend1.enabled = false;
         }
         if (health == 1)
         {
@@ -60,6 +91,13 @@ public class HeartScript : MonoBehaviour
             Rend3.enabled = false;
             Rend2.enabled = false;
             Rend1.enabled = true;
+
+            PRend5.enabled = false;
+            PRend4.enabled = false;
+            PRend3.enabled = false;
+            PRend2.enabled = false;
+            PRend1.enabled = true;
+
         }
         if (health == 0)
          {
@@ -68,6 +106,12 @@ public class HeartScript : MonoBehaviour
             Rend3.enabled = false;
             Rend2.enabled = false;
             Rend1.enabled = false;
-          }
+
+            PRend5.enabled = false;
+            PRend4.enabled = false;
+            PRend3.enabled = false;
+            PRend2.enabled = false;
+            PRend1.enabled = true;
+        }
     }
 }

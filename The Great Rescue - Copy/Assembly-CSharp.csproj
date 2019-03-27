@@ -53,11 +53,13 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\ArthurEnable.cs" />
      <Compile Include="Assets\BackScript.cs" />
      <Compile Include="Assets\BodyCount.cs" />
      <Compile Include="Assets\chargeffs.cs" />
      <Compile Include="Assets\DestroyOnInvisible.cs" />
      <Compile Include="Assets\DestroyOnInvisibleEnemyBullet.cs" />
+     <Compile Include="Assets\EnableArthur.cs" />
      <Compile Include="Assets\FadeScript.cs" />
      <Compile Include="Assets\GameOverScript.cs" />
      <Compile Include="Assets\GoblinDestroyedScore.cs" />
@@ -66,6 +68,7 @@
      <Compile Include="Assets\HeartScript.cs" />
      <Compile Include="Assets\HideOnPlay.cs" />
      <Compile Include="Assets\HoverText.cs" />
+     <Compile Include="Assets\HugScript.cs" />
      <Compile Include="Assets\InstructionScript.cs" />
      <Compile Include="Assets\LoadGameScript.cs" />
      <Compile Include="Assets\NextSceneScript.cs" />
@@ -91,6 +94,7 @@
      <Compile Include="Assets\Scripts\Misc\BgScroll.cs" />
      <Compile Include="Assets\Scripts\Misc\BgScrollPara.cs" />
      <Compile Include="Assets\Scripts\Misc\MakeTransparent.cs" />
+     <Compile Include="Assets\Scripts\Misc\Progress.cs" />
      <Compile Include="Assets\Scripts\Misc\ScreenShake.cs" />
      <Compile Include="Assets\Scripts\Misc\sounddie.cs" />
      <Compile Include="Assets\Scripts\Player\PChealth.cs" />
